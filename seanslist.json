@@ -1,0 +1,562 @@
+[
+  {
+    "type": "blockchain",
+    "name": "algorand",
+    "category": "website",
+    "subcategory": "layer1",
+    "url": "https://algorand.com/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "cosmos",
+    "category": "website",
+    "subcategory": "layer1",
+    "url": "https://cosmos.network/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "celestia",
+    "category": "website",
+    "subcategory": "cosmos-protocol",
+    "url": "https://celestia.org/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "kava",
+    "category": "website",
+    "subcategory": "cosmos-protocol",
+    "url": "https://www.kava.io/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "sei",
+    "category": "website",
+    "subcategory": "cosmos-protocol",
+    "url": "https://www.seinetwork.io/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "thorchain",
+    "category": "website",
+    "subcategory": "cosmos-protocol",
+    "url": "https://thorchain.org/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "akash",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://akash.network/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "axelar",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://axelar.network/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "comdex",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://comdex.one/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "cronos",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://cronos.org/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "evmos",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://evmos.org/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "fetch",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://fetch.ai/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "injective",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://injective.com/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "junonetwork",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://junonetwork.io/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "osmosis",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://osmosis.zone/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "persistence",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://persistence.one/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "secret",
+    "category": "website",
+    "subcategory": "cosmos-zone",
+    "url": "https://scrt.network/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "cardano",
+    "category": "website",
+    "subcategory": "layer1",
+    "url": "https://cardano.org/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "flare",
+    "category": "website",
+    "subcategory": "layer1",
+    "url": "https://flare.network/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "hedera",
+    "category": "website",
+    "subcategory": "layer1",
+    "url": "https://hedera.com/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "solana",
+    "category": "website",
+    "subcategory": "layer1",
+    "url": "https://solana.com/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "stellar",
+    "category": "website",
+    "subcategory": "layer1",
+    "url": "https://stellar.org/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "astar",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://astar.network/developers/university",
+    "size": ""    
+  },
+  {
+    "type": "education",
+    "name": "binance",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://academy.binance.com/en",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "blockchain academy international",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://www.bcai.edu.au/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "cosmwasm",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://academy.cosmwasm.com/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "moralis academy",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://academy.moralis.io/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "solana",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://solana.com/developers",
+    "size": ""    
+  },
+  {
+    "type": "education",
+    "name": "the blockchain academy",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://theblockchainacademy.com/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "the graph",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://thegraph.academy/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "astar",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.astar.network/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "evmos",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.evmos.org/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "polkadot",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://polkadot.network/development/docs/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "the graph",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://thegraph.com/docs/en/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "solana",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.solana.com/",
+    "size": ""
+  },
+  {
+    "type": "foundation",
+    "name": "algorand",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.algorand.foundation/",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
+    "name": "algorand",
+    "category": "website",
+    "subcategory": "ecosystem",
+    "url": "https://www.algorand.foundation/ecosystem",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
+    "name": "astar",
+    "category": "website",
+    "subcategory": "ecosystem",
+    "url": "https://astar.network/community/ecosystem",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
+    "name": "avalanche",
+    "category": "website",
+    "subcategory": "ecosystem",
+    "url": "https://core.app/discover/projects/all/",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
+    "name": "hedera",
+    "category": "website",
+    "subcategory": "ecosystem",
+    "url": "https://hedera.com/ecosystem/web3-applications",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
+    "name": "thorchain",
+    "category": "website",
+    "subcategory": "ecosystem",
+    "url": "https://www.thorchain.com/ecosystem",
+    "size": ""
+  },
+  {
+    "type": "forum",
+    "name": "r/bitcoin",
+    "category": "reddit",
+    "subcategory": "bitcoin",
+    "url": "https://www.reddit.com/r/Bitcoin/",
+    "size": 5000000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethereum",
+    "category": "reddit",
+    "subcategory": "ethereum",
+    "url": "https://www.reddit.com/r/ethereum/",
+    "size": 1800000
+  },
+  {
+    "type": "forum",
+    "name": "r/TREZOR",
+    "category": "reddit",
+    "subcategory": "wallets",
+    "url": "https://www.reddit.com/r/TREZOR/",
+    "size": 47700
+  },
+  {
+    "type": "forum",
+    "name": "r/ledgerwallet",
+    "category": "reddit",
+    "subcategory": "wallets",
+    "url": "https://www.reddit.com/r/ledgerwallet/",
+    "size": 120000
+  },
+  {
+    "type": "forum",
+    "name": "r/PiNetwork",
+    "category": "reddit",
+    "subcategory": "networks",
+    "url": "https://www.reddit.com/r/PiNetwork/",
+    "size": 57100
+  },
+  {
+    "type": "forum",
+    "name": "r/Monero",
+    "category": "reddit",
+    "subcategory": "networks",
+    "url": "https://www.reddit.com/r/Monero/",
+    "size": 290000
+  },
+  {
+    "type": "forum",
+    "name": "r/kucoin",
+    "category": "reddit",
+    "subcategory": "exchange",
+    "url": "https://www.reddit.com/r/kucoin/",
+    "size": 129000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethtrader",
+    "category": "reddit",
+    "subcategory": "trading",
+    "url": "https://www.reddit.com/r/ethtrader/",
+    "size": 2200000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethstaker",
+    "category": "reddit",
+    "subcategory": "staking",
+    "url": "https://www.reddit.com/r/ethstaker/",
+    "size": 49200
+  },
+  {
+    "type": "forum",
+    "name": "r/ethfinance",
+    "category": "reddit",
+    "subcategory": "defi",
+    "url": "https://www.reddit.com/r/ethfinance/",
+    "size": 87000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethereumnoobies",
+    "category": "reddit",
+    "subcategory": "ethereum",
+    "url": "https://www.reddit.com/r/ethereumnoobies/",
+    "size": 87000
+  },
+  {
+    "type": "forum",
+    "name": "r/defi",
+    "category": "reddit",
+    "subcategory": "defi",
+    "url": "https://www.reddit.com/r/defi/",
+    "size": 109000
+  },
+  {
+    "type": "forum",
+    "name": "r/cryptocurrency",
+    "category": "reddit",
+    "subcategory": "cryptocurrency",
+    "url": "https://www.reddit.com/r/cryptocurrency/",
+    "size": 6400000
+  },
+  {
+    "type": "forum",
+    "name": "r/CoinBase",
+    "category": "reddit",
+    "subcategory": "exchange",
+    "url": "https://www.reddit.com/r/CoinBase/",
+    "size": 230000
+  },
+  {
+    "type": "forum",
+    "name": "r/btc",
+    "category": "reddit",
+    "subcategory": "bitcoin",
+    "url": "https://www.reddit.com/r/btc/",
+    "size": 1100000
+  },
+  {
+    "type": "news",
+    "name": "newsbtc",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://www.newsbtc.com/",
+    "size": ""
+  },
+  {
+    "type": "infrastructure",
+    "name": "moralis",
+    "category": "api-provider",
+    "subcategory": "",
+    "url": "https://moralis.io/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "livebitcoinnews",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://www.livebitcoinnews.com/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "themerkle",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://themerkle.com/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "coinfund",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://blog.coinfund.io/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "blockchainnews",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://the-blockchain.com/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "bravenewcoin",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://bravenewcoin.com/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "cryptonews",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://crypto.news/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "decrypt",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://decrypt.co/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "bitcoinist",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://bitcoinist.com/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "cointelegraph",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://cointelegraph.com/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "coindesk",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://www.coindesk.com/",
+    "size": ""
+  },
+  {
+    "type": "service",
+    "name": "subsquid",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://www.subsquid.io/",
+    "size": ""
+  },
+  {
+    "type": "service",
+    "name": "the graph",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://thegraph.com/",
+    "size": ""
+  }
+]
