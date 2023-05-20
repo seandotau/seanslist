@@ -176,6 +176,14 @@
     "size": ""
   },
   {
+    "type": "blockchain",
+    "name": "vara",
+    "category": "website",
+    "subcategory": "layer1",
+    "url": "https://vara-network.io/",
+    "size": ""
+  },
+  {
     "type": "education",
     "name": "astar",
     "category": "academy",
@@ -280,6 +288,14 @@
     "size": ""
   },
   {
+    "type": "education",
+    "name": "vara",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://wiki.vara-network.io/docs/intro",
+    "size": ""
+  },
+  {
     "type": "foundation",
     "name": "algorand",
     "category": "",
@@ -325,6 +341,14 @@
     "category": "website",
     "subcategory": "ecosystem",
     "url": "https://www.thorchain.com/ecosystem",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
+    "name": "vara",
+    "category": "website",
+    "subcategory": "ecosystem",
+    "url": "https://vara-network.io/ecosystem",
     "size": ""
   },
   {
