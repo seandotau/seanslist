@@ -90,49 +90,57 @@
   {
     "type": "blockchain",
     "name": "fetch",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "general",
     "url": "https://fetch.ai/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "injective",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "defi",
     "url": "https://injective.com/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "junonetwork",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "general",
     "url": "https://junonetwork.io/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "osmosis",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "",
     "url": "https://osmosis.zone/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "persistence",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "defi",
     "url": "https://persistence.one/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "secret",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "privacy",
     "url": "https://scrt.network/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "umee",
+    "category": "cosmos-zone",
+    "subcategory": "defi",
+    "url": "https://umee.cc/",
     "size": ""
   },
   {
