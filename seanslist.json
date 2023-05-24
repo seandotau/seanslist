@@ -257,6 +257,14 @@
   },
   {
     "type": "education",
+    "name": "umeeversity",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://umeeversity.umee.cc/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "astar",
     "category": "documentation",
     "subcategory": "",
