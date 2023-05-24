@@ -305,6 +305,14 @@
   },
   {
     "type": "education",
+    "name": "Umee",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://umeeversity.umee.cc/developers/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "vara",
     "category": "documentation",
     "subcategory": "",
