@@ -273,6 +273,14 @@
   },
   {
     "type": "education",
+    "name": "arbitrum",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://developer.arbitrum.io/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "astar",
     "category": "documentation",
     "subcategory": "",
@@ -328,58 +336,66 @@
     "size": ""
   },
   {
-    "type": "foundation",
-    "name": "algorand",
-    "category": "",
-    "subcategory": "",
-    "url": "https://www.algorand.foundation/",
-    "size": ""
-  },
-  {
     "type": "ecosystem",
     "name": "algorand",
-    "category": "website",
-    "subcategory": "ecosystem",
+    "category": "ecosystem",
+    "subcategory": "",
     "url": "https://www.algorand.foundation/ecosystem",
     "size": ""
   },
   {
     "type": "ecosystem",
+    "name": "arbitrum one",
+    "category": "ecosystem",
+    "subcategory": "",
+    "url": "https://portal.arbitrum.io/one",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
+    "name": "arbitrum nova",
+    "category": "ecosystem",
+    "subcategory": "",
+    "url": "https://portal.arbitrum.io/nova",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
     "name": "astar",
-    "category": "website",
-    "subcategory": "ecosystem",
+    "category": "ecosystem",
+    "subcategory": "",
     "url": "https://astar.network/community/ecosystem",
     "size": ""
   },
   {
     "type": "ecosystem",
     "name": "avalanche",
-    "category": "website",
-    "subcategory": "ecosystem",
+    "category": "ecosystem",
+    "subcategory": "",
     "url": "https://core.app/discover/projects/all/",
     "size": ""
   },
   {
     "type": "ecosystem",
     "name": "hedera",
-    "category": "website",
-    "subcategory": "ecosystem",
+    "category": "ecosystem",
+    "subcategory": "",
     "url": "https://hedera.com/ecosystem/web3-applications",
     "size": ""
   },
   {
     "type": "ecosystem",
     "name": "thorchain",
-    "category": "website",
-    "subcategory": "ecosystem",
+    "category": "ecosystem",
+    "subcategory": "",
     "url": "https://www.thorchain.com/ecosystem",
     "size": ""
   },
   {
     "type": "ecosystem",
     "name": "vara",
-    "category": "website",
-    "subcategory": "ecosystem",
+    "category": "ecosystem",
+    "subcategory": "",
     "url": "https://vara-network.io/ecosystem",
     "size": ""
   },
@@ -502,6 +518,22 @@
     "subcategory": "bitcoin",
     "url": "https://www.reddit.com/r/btc/",
     "size": 1100000
+  },
+  {
+    "type": "foundation",
+    "name": "algorand",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.algorand.foundation/",
+    "size": ""
+  },
+  {
+    "type": "foundation",
+    "name": "arbitrum",
+    "category": "",
+    "subcategory": "",
+    "url": "https://arbitrum.foundation/",
+    "size": ""
   },
   {
     "type": "news",
