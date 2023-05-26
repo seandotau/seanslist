@@ -1,0 +1,114 @@
+[
+    {
+    "type": "forum",
+    "name": "r/bitcoin",
+    "category": "reddit",
+    "subcategory": "bitcoin",
+    "url": "https://www.reddit.com/r/Bitcoin/",
+    "size": 5000000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethereum",
+    "category": "reddit",
+    "subcategory": "ethereum",
+    "url": "https://www.reddit.com/r/ethereum/",
+    "size": 1800000
+  },
+  {
+    "type": "forum",
+    "name": "r/TREZOR",
+    "category": "reddit",
+    "subcategory": "wallets",
+    "url": "https://www.reddit.com/r/TREZOR/",
+    "size": 47700
+  },
+  {
+    "type": "forum",
+    "name": "r/ledgerwallet",
+    "category": "reddit",
+    "subcategory": "wallets",
+    "url": "https://www.reddit.com/r/ledgerwallet/",
+    "size": 120000
+  },
+  {
+    "type": "forum",
+    "name": "r/PiNetwork",
+    "category": "reddit",
+    "subcategory": "networks",
+    "url": "https://www.reddit.com/r/PiNetwork/",
+    "size": 57100
+  },
+  {
+    "type": "forum",
+    "name": "r/Monero",
+    "category": "reddit",
+    "subcategory": "networks",
+    "url": "https://www.reddit.com/r/Monero/",
+    "size": 290000
+  },
+  {
+    "type": "forum",
+    "name": "r/kucoin",
+    "category": "reddit",
+    "subcategory": "exchange",
+    "url": "https://www.reddit.com/r/kucoin/",
+    "size": 129000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethtrader",
+    "category": "reddit",
+    "subcategory": "trading",
+    "url": "https://www.reddit.com/r/ethtrader/",
+    "size": 2200000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethstaker",
+    "category": "reddit",
+    "subcategory": "staking",
+    "url": "https://www.reddit.com/r/ethstaker/",
+    "size": 49200
+  },
+  {
+    "type": "forum",
+    "name": "r/ethfinance",
+    "category": "reddit",
+    "subcategory": "defi",
+    "url": "https://www.reddit.com/r/ethfinance/",
+    "size": 87000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethereumnoobies",
+    "category": "reddit",
+    "subcategory": "ethereum",
+    "url": "https://www.reddit.com/r/ethereumnoobies/",
+    "size": 87000
+  },
+  {
+    "type": "forum",
+    "name": "r/defi",
+    "category": "reddit",
+    "subcategory": "defi",
+    "url": "https://www.reddit.com/r/defi/",
+    "size": 109000
+  },
+  {
+    "type": "forum",
+    "name": "r/cryptocurrency",
+    "category": "reddit",
+    "subcategory": "cryptocurrency",
+    "url": "https://www.reddit.com/r/cryptocurrency/",
+    "size": 6400000
+  },
+  {
+    "type": "forum",
+    "name": "r/CoinBase",
+    "category": "reddit",
+    "subcategory": "exchange",
+    "url": "https://www.reddit.com/r/CoinBase/",
+    "size": 230000
+  }
+]
