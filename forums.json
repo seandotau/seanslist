@@ -9,6 +9,38 @@
   },
   {
     "type": "forum",
+    "name": "r/btc",
+    "category": "reddit",
+    "subcategory": "bitcoin",
+    "url": "https://www.reddit.com/r/btc/",
+    "size": 1100000
+  },
+  {
+    "type": "forum",
+    "name": "r/cryptocurrency",
+    "category": "reddit",
+    "subcategory": "cryptocurrency",
+    "url": "https://www.reddit.com/r/cryptocurrency/",
+    "size": 6400000
+  },
+  {
+    "type": "forum",
+    "name": "r/ethfinance",
+    "category": "reddit",
+    "subcategory": "defi",
+    "url": "https://www.reddit.com/r/ethfinance/",
+    "size": 87000
+  },
+  {
+    "type": "forum",
+    "name": "r/defi",
+    "category": "reddit",
+    "subcategory": "defi",
+    "url": "https://www.reddit.com/r/defi/",
+    "size": 109000
+  },
+  {
+    "type": "forum",
     "name": "r/ethereum",
     "category": "reddit",
     "subcategory": "ethereum",
@@ -17,19 +49,27 @@
   },
   {
     "type": "forum",
-    "name": "r/TREZOR",
+    "name": "r/ethereumnoobies",
     "category": "reddit",
-    "subcategory": "wallets",
-    "url": "https://www.reddit.com/r/TREZOR/",
-    "size": 47700
+    "subcategory": "ethereum",
+    "url": "https://www.reddit.com/r/ethereumnoobies/",
+    "size": 87000
+  }, 
+  {
+    "type": "forum",
+    "name": "r/CoinBase",
+    "category": "reddit",
+    "subcategory": "exchange",
+    "url": "https://www.reddit.com/r/CoinBase/",
+    "size": 230000
   },
   {
     "type": "forum",
-    "name": "r/ledgerwallet",
+    "name": "r/kucoin",
     "category": "reddit",
-    "subcategory": "wallets",
-    "url": "https://www.reddit.com/r/ledgerwallet/",
-    "size": 120000
+    "subcategory": "exchange",
+    "url": "https://www.reddit.com/r/kucoin/",
+    "size": 129000
   },
   {
     "type": "forum",
@@ -49,19 +89,19 @@
   },
   {
     "type": "forum",
-    "name": "r/kucoin",
+    "name": "r/ledgerwallet",
     "category": "reddit",
-    "subcategory": "exchange",
-    "url": "https://www.reddit.com/r/kucoin/",
-    "size": 129000
+    "subcategory": "wallets",
+    "url": "https://www.reddit.com/r/ledgerwallet/",
+    "size": 120000
   },
   {
     "type": "forum",
-    "name": "r/ethtrader",
+    "name": "r/TREZOR",
     "category": "reddit",
-    "subcategory": "trading",
-    "url": "https://www.reddit.com/r/ethtrader/",
-    "size": 2200000
+    "subcategory": "wallets",
+    "url": "https://www.reddit.com/r/TREZOR/",
+    "size": 47700
   },
   {
     "type": "forum",
@@ -73,42 +113,10 @@
   },
   {
     "type": "forum",
-    "name": "r/ethfinance",
+    "name": "r/ethtrader",
     "category": "reddit",
-    "subcategory": "defi",
-    "url": "https://www.reddit.com/r/ethfinance/",
-    "size": 87000
-  },
-  {
-    "type": "forum",
-    "name": "r/ethereumnoobies",
-    "category": "reddit",
-    "subcategory": "ethereum",
-    "url": "https://www.reddit.com/r/ethereumnoobies/",
-    "size": 87000
-  },
-  {
-    "type": "forum",
-    "name": "r/defi",
-    "category": "reddit",
-    "subcategory": "defi",
-    "url": "https://www.reddit.com/r/defi/",
-    "size": 109000
-  },
-  {
-    "type": "forum",
-    "name": "r/cryptocurrency",
-    "category": "reddit",
-    "subcategory": "cryptocurrency",
-    "url": "https://www.reddit.com/r/cryptocurrency/",
-    "size": 6400000
-  },
-  {
-    "type": "forum",
-    "name": "r/CoinBase",
-    "category": "reddit",
-    "subcategory": "exchange",
-    "url": "https://www.reddit.com/r/CoinBase/",
-    "size": 230000
+    "subcategory": "trading",
+    "url": "https://www.reddit.com/r/ethtrader/",
+    "size": 2200000
   }
 ]
