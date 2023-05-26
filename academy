@@ -1,0 +1,74 @@
+[
+  {
+    "type": "education",
+    "name": "astar",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://astar.network/developers/university",
+    "size": ""    
+  },
+  {
+    "type": "education",
+    "name": "binance",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://academy.binance.com/en",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "blockchain academy international",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://www.bcai.edu.au/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "cosmwasm",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://academy.cosmwasm.com/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "moralis academy",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://academy.moralis.io/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "solana",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://solana.com/developers",
+    "size": ""    
+  },
+  {
+    "type": "education",
+    "name": "the blockchain academy",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://theblockchainacademy.com/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "the graph",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://thegraph.academy/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "umeeversity",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://umeeversity.umee.cc/",
+    "size": ""
+  }
+]
