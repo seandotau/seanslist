@@ -1,26 +1,10 @@
-  [
-    {
-    "type": "news",
-    "name": "livebitcoinnews",
-    "category": "website",
-    "subcategory": "news",
-    "url": "https://www.livebitcoinnews.com/",
-    "size": ""
-  },
+[
   {
     "type": "news",
-    "name": "themerkle",
+    "name": "bitcoinist",
     "category": "website",
     "subcategory": "news",
-    "url": "https://themerkle.com/",
-    "size": ""
-  },
-  {
-    "type": "news",
-    "name": "coinfund",
-    "category": "website",
-    "subcategory": "news",
-    "url": "https://blog.coinfund.io/",
+    "url": "https://bitcoinist.com/",
     "size": ""
   },
   {
@@ -41,6 +25,30 @@
   },
   {
     "type": "news",
+    "name": "coindesk",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://www.coindesk.com/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "coinfund",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://blog.coinfund.io/",
+    "size": ""
+  },
+  {
+    "type": "news",
+    "name": "cointelegraph",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://cointelegraph.com/",
+    "size": ""
+  },
+  {
+    "type": "news",
     "name": "cryptonews",
     "category": "website",
     "subcategory": "news",
@@ -57,26 +65,26 @@
   },
   {
     "type": "news",
-    "name": "bitcoinist",
+    "name": "livebitcoinnews",
     "category": "website",
     "subcategory": "news",
-    "url": "https://bitcoinist.com/",
+    "url": "https://www.livebitcoinnews.com/",
     "size": ""
   },
   {
     "type": "news",
-    "name": "cointelegraph",
+    "name": "newsbtc",
     "category": "website",
     "subcategory": "news",
-    "url": "https://cointelegraph.com/",
+    "url": "https://www.newsbtc.com/",
     "size": ""
   },
   {
     "type": "news",
-    "name": "coindesk",
+    "name": "themerkle",
     "category": "website",
     "subcategory": "news",
-    "url": "https://www.coindesk.com/",
+    "url": "https://themerkle.com/",
     "size": ""
   }
 ]
