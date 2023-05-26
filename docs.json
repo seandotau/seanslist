@@ -1,1 +1,65 @@
-
+[
+  {
+    "type": "education",
+    "name": "arbitrum",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://developer.arbitrum.io/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "astar",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.astar.network/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "evmos",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.evmos.org/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "polkadot",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://polkadot.network/development/docs/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "the graph",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://thegraph.com/docs/en/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "solana",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.solana.com/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "Umee",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://umeeversity.umee.cc/developers/",
+    "size": ""
+  },
+  {
+    "type": "education",
+    "name": "vara",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://wiki.vara-network.io/docs/intro",
+    "size": ""
+]
