@@ -14,21 +14,5 @@
     "subcategory": "",
     "url": "https://arbitrum.foundation/",
     "size": ""
-  },
-  {
-    "type": "service",
-    "name": "subsquid",
-    "category": "indexer",
-    "subcategory": "",
-    "url": "https://www.subsquid.io/",
-    "size": ""
-  },
-  {
-    "type": "service",
-    "name": "the graph",
-    "category": "indexer",
-    "subcategory": "",
-    "url": "https://thegraph.com/",
-    "size": ""
   }
 ]
