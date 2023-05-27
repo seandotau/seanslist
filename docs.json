@@ -33,6 +33,14 @@
   },
   {
     "type": "education",
+    "name": "polygon",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://wiki.polygon.technology/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "the graph",
     "category": "documentation",
     "subcategory": "",
