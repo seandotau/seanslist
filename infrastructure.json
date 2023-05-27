@@ -1,6 +1,14 @@
 [
   {
     "type": "infrastructure",
+    "name": "alchemy",
+    "category": "api-provider",
+    "subcategory": "",
+    "url": "https://www.alchemy.com/",
+    "size": ""
+  },
+  {
+    "type": "infrastructure",
     "name": "moralis",
     "category": "api-provider",
     "subcategory": "",
