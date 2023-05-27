@@ -39,6 +39,14 @@
     "url": "https://academy.moralis.io/",
     "size": ""
   },
+    {
+    "type": "education",
+    "name": "polygon university",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://university.polygon.technology/",
+    "size": ""
+  },
   {
     "type": "education",
     "name": "solana",
