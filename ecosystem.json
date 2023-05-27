@@ -49,6 +49,14 @@
   },
   {
     "type": "ecosystem",
+    "name": "polygon",
+    "category": "ecosystem",
+    "subcategory": "",
+    "url": "https://ecosystem.polygon.technology/zkEVM/dapps/",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
     "name": "thorchain",
     "category": "ecosystem",
     "subcategory": "",
