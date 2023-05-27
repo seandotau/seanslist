@@ -198,5 +198,13 @@
     "subcategory": "",
     "url": "https://arbitrum.io/",
     "size": ""
+  },
+  {
+    "type": "blockchain",
+    "name": "polygon",
+    "category": "layer2",
+    "subcategory": "",
+    "url": "https://polygon.technology/",
+    "size": ""
   }
 ]
