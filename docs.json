@@ -57,6 +57,14 @@
   },
   {
     "type": "education",
+    "name": "winr",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "  https://docs.winr.games/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "Umee",
     "category": "documentation",
     "subcategory": "",
