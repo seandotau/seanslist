@@ -34,40 +34,40 @@
   {
     "type": "blockchain",
     "name": "akash",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "",
     "url": "https://akash.network/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "axelar",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "",
     "url": "https://axelar.network/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "comdex",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "",
     "url": "https://comdex.one/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "cronos",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "",
     "url": "https://cronos.org/",
     "size": ""
   },
   {
     "type": "blockchain",
     "name": "evmos",
-    "category": "website",
-    "subcategory": "cosmos-zone",
+    "category": "cosmos-zone",
+    "subcategory": "",
     "url": "https://evmos.org/",
     "size": ""
   },
