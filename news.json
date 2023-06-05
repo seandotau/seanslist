@@ -9,6 +9,14 @@
   },
   {
     "type": "news",
+    "name": "bitcoinmagazine",
+    "category": "website",
+    "subcategory": "news",
+    "url": "https://bitcoinmagazine.com/",
+    "size": ""
+  }
+  {
+    "type": "news",
     "name": "blockchainnews",
     "category": "website",
     "subcategory": "news",
