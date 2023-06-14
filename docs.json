@@ -17,6 +17,14 @@
   },
   {
     "type": "education",
+    "name": "biconomy",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.biconomy.io/introduction/overview",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "evmos",
     "category": "documentation",
     "subcategory": "",
