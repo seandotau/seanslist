@@ -1,6 +1,22 @@
 [
   {
     "type": "service",
+    "name": "Flair",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://docs.flair.build/",
+    "size": ""
+  },
+  {
+   "type": "service",
+    "name": "Spice AI",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://spice.xyz/",
+    "size": ""
+  },
+  {
+    "type": "service",
     "name": "subsquid",
     "category": "indexer",
     "subcategory": "",
@@ -13,14 +29,6 @@
     "category": "indexer",
     "subcategory": "",
     "url": "https://thegraph.com/",
-    "size": ""
-  },
-  {
-    "type": "service",
-    "name": "Spice AI",
-    "category": "indexer",
-    "subcategory": "",
-    "url": "https://spice.xyz/",
     "size": ""
   }
 ]
