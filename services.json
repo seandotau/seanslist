@@ -14,5 +14,13 @@
     "subcategory": "",
     "url": "https://thegraph.com/",
     "size": ""
+  },
+  {
+    "type": "service",
+    "name": "Spice AI",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://spice.xyz/",
+    "size": ""
   }
 ]
