@@ -1,7 +1,15 @@
 [
   {
     "type": "service",
-    "name": "Flair",
+    "name": "conciselabs",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://www.conciselabs.io/",
+    "size": ""
+  },
+  {
+    "type": "service",
+    "name": "flair",
     "category": "indexer",
     "subcategory": "",
     "url": "https://docs.flair.build/",
@@ -9,7 +17,7 @@
   },
   {
    "type": "service",
-    "name": "Spice AI",
+    "name": "spice ai",
     "category": "indexer",
     "subcategory": "",
     "url": "https://spice.xyz/",
