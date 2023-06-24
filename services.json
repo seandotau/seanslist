@@ -9,6 +9,14 @@
   },
   {
     "type": "service",
+    "name": "forkastlabs",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://www.forkastlabs.xyz/",
+    "size": ""
+  },
+  {
+    "type": "service",
     "name": "flair",
     "category": "indexer",
     "subcategory": "",
