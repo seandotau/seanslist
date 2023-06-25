@@ -49,6 +49,14 @@
   },
   {
     "type": "service",
+    "name": "uma",
+    "category": "oracle",
+    "subcategory": "",
+    "url": "https://uma.xyz/",
+    "size": ""
+  },
+  {
+    "type": "service",
     "name": "omniscia",
     "category": "security audits",
     "subcategory": "",
