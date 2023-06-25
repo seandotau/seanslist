@@ -46,5 +46,13 @@
     "subcategory": "",
     "url": "https://thegraph.com/",
     "size": ""
+  },
+  {
+    "type": "service",
+    "name": "omniscia",
+    "category": "security audits",
+    "subcategory": "",
+    "url": "https://omniscia.io/",
+    "size": ""
   }
 ]
