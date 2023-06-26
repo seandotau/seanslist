@@ -17,6 +17,14 @@
   },
   {
     "type": "service",
+    "name": "goldsky",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://goldsky.com/",
+    "size": ""
+  },
+  {
+    "type": "service",
     "name": "flair",
     "category": "indexer",
     "subcategory": "",
