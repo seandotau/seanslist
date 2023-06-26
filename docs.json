@@ -25,6 +25,14 @@
   },
   {
     "type": "education",
+    "name": "empowerchain",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.empowerchain.io/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "evmos",
     "category": "documentation",
     "subcategory": "",
