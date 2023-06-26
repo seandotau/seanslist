@@ -41,6 +41,14 @@
   },
   {
     "type": "education",
+    "name": "near",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.near.org/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "polkadot",
     "category": "documentation",
     "subcategory": "",
