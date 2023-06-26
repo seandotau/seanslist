@@ -33,6 +33,14 @@
   },
   {
     "type": "education",
+    "name": "near academy",
+    "category": "academy",
+    "subcategory": "",
+    "url": "https://near.academy/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "moralis academy",
     "category": "academy",
     "subcategory": "",
