@@ -49,6 +49,14 @@
   },
   {
     "type": "ecosystem",
+    "name": "junonetwork",
+    "category": "ecosystem",
+    "subcategory": "",
+    "url": "https://junonetwork.io/ecosystem",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
     "name": "polygon",
     "category": "ecosystem",
     "subcategory": "",
