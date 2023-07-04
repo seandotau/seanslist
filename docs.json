@@ -41,6 +41,14 @@
   },
   {
     "type": "education",
+    "name": "junonetwork",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.junonetwork.io/juno/readme",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "near",
     "category": "documentation",
     "subcategory": "",
