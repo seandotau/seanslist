@@ -41,6 +41,14 @@
   },
   {
     "type": "education",
+    "name": "gnosischain",
+    "category": "documentation",
+    "subcategory": "",
+    "url": "https://docs.gnosischain.com/",
+    "size": ""
+  },
+  {
+    "type": "education",
     "name": "junonetwork",
     "category": "documentation",
     "subcategory": "",
