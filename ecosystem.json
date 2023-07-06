@@ -41,6 +41,14 @@
   },
   {
     "type": "ecosystem",
+    "name": "gnosischain",
+    "category": "ecosystem",
+    "subcategory": "",
+    "url": "https://gnosischain.world/",
+    "size": ""
+  },
+  {
+    "type": "ecosystem",
     "name": "hedera",
     "category": "ecosystem",
     "subcategory": "",
