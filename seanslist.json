@@ -161,6 +161,14 @@
   },
   {
     "type": "blockchain",
+    "name": "gnosis",
+    "category": "layer1",
+    "subcategory": "",
+    "url": "https://www.gnosis.io/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
     "name": "hedera",
     "category": "layer1",
     "subcategory": "",
