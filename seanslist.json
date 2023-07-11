@@ -185,6 +185,14 @@
   },
   {
     "type": "blockchain",
+    "name": "near",
+    "category": "layer1",
+    "subcategory": "",
+    "url": "https://near.org/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
     "name": "solana",
     "category": "layer1",
     "subcategory": "",
