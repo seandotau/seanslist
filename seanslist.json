@@ -137,6 +137,14 @@
   },
   {
     "type": "blockchain",
+    "name": "avalanche",
+    "category": "layer1",
+    "subcategory": "",
+    "url": "https://www.avax.network/",
+    "size": ""
+  },
+  {
+    "type": "blockchain",
     "name": "cosmos",
     "category": "layer1",
     "subcategory": "",
