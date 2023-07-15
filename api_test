@@ -1,12 +1,12 @@
 {
     "campaigns": [
         {
-            "id": "45ba20d15d",
-            "web_id": 12614907,
+            "id": "bbc1bc9fb6",
+            "web_id": 12614908,
             "type": "plaintext",
-            "create_time": "2023-07-15T23:45:12+00:00",
-            "archive_url": "http://eepurl.com/ivGuZY",
-            "long_archive_url": "https://us21.campaign-archive.com/?u=2c2b6b59e75f330361e56a108&id=45ba20d15d",
+            "create_time": "2023-07-15T23:50:25+00:00",
+            "archive_url": "http://eepurl.com/ivGvgM",
+            "long_archive_url": "https://us21.campaign-archive.com/?u=2c2b6b59e75f330361e56a108&id=bbc1bc9fb6",
             "status": "save",
             "emails_sent": 0,
             "send_time": "",
@@ -59,61 +59,61 @@
                 },
                 {
                     "rel": "self",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6",
                     "method": "GET",
                     "targetSchema": "https://us21.api.mailchimp.com/schema/3.0/Definitions/Campaigns/Response.json"
                 },
                 {
                     "rel": "delete",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6",
                     "method": "DELETE"
                 },
                 {
                     "rel": "send",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/actions/send",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/actions/send",
                     "method": "POST"
                 },
                 {
                     "rel": "cancel_send",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/actions/cancel-send",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/actions/cancel-send",
                     "method": "POST"
                 },
                 {
                     "rel": "feedback",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/feedback",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/feedback",
                     "method": "GET",
                     "targetSchema": "https://us21.api.mailchimp.com/schema/3.0/Definitions/Campaigns/Feedback/CollectionResponse.json"
                 },
                 {
                     "rel": "content",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/content",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/content",
                     "method": "GET",
                     "targetSchema": "https://us21.api.mailchimp.com/schema/3.0/Definitions/Campaigns/Content/Response.json"
                 },
                 {
                     "rel": "send_checklist",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/send-checklist",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/send-checklist",
                     "method": "GET",
                     "targetSchema": "https://us21.api.mailchimp.com/schema/3.0/Definitions/Campaigns/Checklist/Response.json"
                 },
                 {
                     "rel": "pause",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/actions/pause",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/actions/pause",
                     "method": "POST"
                 },
                 {
                     "rel": "resume",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/actions/resume",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/actions/resume",
                     "method": "POST"
                 },
                 {
                     "rel": "replicate",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/actions/replicate",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/actions/replicate",
                     "method": "POST"
                 },
                 {
                     "rel": "create_resend",
-                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/45ba20d15d/actions/create-resend",
+                    "href": "https://us21.api.mailchimp.com/3.0/campaigns/bbc1bc9fb6/actions/create-resend",
                     "method": "POST"
                 }
             ]
