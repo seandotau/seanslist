@@ -2,15 +2,23 @@
   {
     "type": "infrastructure",
     "name": "alchemy",
-    "category": "api-provider",
+    "category": "api/node-provider",
     "subcategory": "",
     "url": "https://www.alchemy.com/",
     "size": ""
   },
   {
     "type": "infrastructure",
+    "name": "chainstack",
+    "category": "api/node-provider",
+    "subcategory": "",
+    "url": "https://chainstack.com/",
+    "size": ""
+  },
+  {
+    "type": "infrastructure",
     "name": "moralis",
-    "category": "api-provider",
+    "category": "api/node-provider",
     "subcategory": "",
     "url": "https://moralis.io/",
     "size": ""
