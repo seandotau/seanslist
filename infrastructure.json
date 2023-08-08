@@ -17,10 +17,26 @@
   },
   {
     "type": "infrastructure",
+    "name": "blastapi",
+    "category": "api/node-provider",
+    "subcategory": "",
+    "url": "https://blastapi.io/",
+    "size": ""
+  },
+  {
+    "type": "infrastructure",
     "name": "chainstack",
     "category": "api/node-provider",
     "subcategory": "",
     "url": "https://chainstack.com/",
+    "size": ""
+  },
+  {
+    "type": "infrastructure",
+    "name": "getblock",
+    "category": "api/node-provider",
+    "subcategory": "",
+    "url": "https://getblock.io/",
     "size": ""
   },
   {
@@ -37,6 +53,22 @@
     "category": "api/node-provider",
     "subcategory": "",
     "url": "https://moralis.io/",
+    "size": ""
+  },
+  {
+    "type": "infrastructure",
+    "name": "onfinality",
+    "category": "api/node-provider",
+    "subcategory": "",
+    "url": "https://onfinality.io/",
+    "size": ""
+  },
+    {
+    "type": "infrastructure",
+    "name": "pokt",
+    "category": "api/node-provider",
+    "subcategory": "",
+    "url": "https://www.pokt.network/",
     "size": ""
   },
   {
