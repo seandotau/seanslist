@@ -1,0 +1,18 @@
+[
+  {
+    "type": "wallets",
+    "name": "exodus",
+    "category": "wallets",
+    "subcategory": "software",
+    "url": "https://www.exodus.com/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "metamask",
+    "category": "wallets",
+    "subcategory": "software",
+    "url": "https://metamask.io/",
+    "size": ""
+  }
+]
