@@ -1,0 +1,24 @@
+[
+    {
+    "type": "organisation",
+    "name": "jackallabs",
+    "category": "cosmos",
+    "subcategory": "cosmos",
+    "url": "https://www.jackallabs.io/",
+    "twitter":"https://twitter.com/Jackal_Protocol",
+    "discord":"https://discord.com/invite/5GKym3p6rj",
+    "telegram":"https://t.me/+rtuZnbTlHaIzNjVh",
+    "team":"https://www.jackallabs.io/team"
+  },
+  {
+    "type": "project",
+    "name": "jackalprotocol",
+    "category": "cosmos",
+    "subcategory": "cosmos",
+    "url": "https://www.jackalprotocol.com/",
+    "twitter":"https://twitter.com/Jackal_Protocol",
+    "discord":"https://discord.com/invite/5GKym3p6rj",
+    "telegram":"https://t.me/+rtuZnbTlHaIzNjVh",
+    "team":"https://www.jackallabs.io/team"
+  }
+]
