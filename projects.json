@@ -9,8 +9,8 @@
     "discord":"https://discord.com/invite/5GKym3p6rj",
     "telegram":"https://t.me/+rtuZnbTlHaIzNjVh",
     "team":"https://www.jackallabs.io/team"
-  },
-  {
+    },
+    {
     "type": "project",
     "name": "jackalprotocol",
     "category": "cosmos",
@@ -20,5 +20,16 @@
     "discord":"https://discord.com/invite/5GKym3p6rj",
     "telegram":"https://t.me/+rtuZnbTlHaIzNjVh",
     "team":"https://www.jackallabs.io/team"
+    },
+    {
+    "type": "project",
+    "name": "omniflix",
+    "category": "cosmos",
+    "subcategory": "cosmos",
+    "url": "https://omniflix.network/",
+    "twitter":"https://twitter.com/OmniFlixNetwork",
+    "discord":"https://discord.com/invite/6gdQ4yZSTC",
+    "telegram":"https://t.me/OmniFlixNetwork",
+    "team":"https://www.linkedin.com/company/omniflixnetwork/people/"
   }
 ]
