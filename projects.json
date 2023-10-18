@@ -23,6 +23,17 @@
     },
     {
     "type": "project",
+    "name": "levana",
+    "category": "cosmos",
+    "subcategory": "sei",
+    "url": "https://www.levana.finance/",
+    "twitter":"https://twitter.com/Levana_protocol",
+    "discord":"https://discord.com/invite/RqTCqks8yk",
+    "telegram":"https://t.me/+rtuZnbTlHaIzNjVh",
+    "team":"https://www.linkedin.com/company/levana-protocol/people/"
+    },
+    {
+    "type": "project",
     "name": "mantle",
     "category": "evm",
     "subcategory": "",
