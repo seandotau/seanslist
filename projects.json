@@ -23,6 +23,17 @@
     },
     {
     "type": "project",
+    "name": "mantle",
+    "category": "evm",
+    "subcategory": "",
+    "url": "https://www.mantle.xyz/",
+    "twitter":"https://twitter.com/0xMantle",
+    "discord":"https://discord.com/invite/0xMantle",
+    "telegram":"https://t.me/mantlenetwork",
+    "team":"https://www.linkedin.com/company/0xmantle/people/"
+    },
+    {
+    "type": "project",
     "name": "omniflix",
     "category": "cosmos",
     "subcategory": "cosmos",
