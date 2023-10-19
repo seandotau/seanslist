@@ -30,7 +30,8 @@
     "twitter":"Levana_protocol",
     "discord":"RqTCqks8yk",
     "telegram":"rtuZnbTlHaIzNjVh",
-    "team":"https://www.linkedin.com/company/levana-protocol/people/"
+    "team":"https://www.linkedin.com/company/levana-protocol/people/",
+    "size":"10"
     },
     {
     "type": "project",
@@ -63,6 +64,7 @@
     "twitter":"OmniFlixNetwork",
     "discord":"6gdQ4yZSTC",
     "telegram":"OmniFlixNetwork",
-    "team":"https://www.linkedin.com/company/omniflixnetwork/people/"
+    "team":"https://www.linkedin.com/company/omniflixnetwork/people/",
+    "size":"7"
   }
 ]
