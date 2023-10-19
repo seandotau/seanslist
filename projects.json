@@ -49,6 +49,18 @@
     },
     {
     "type": "project",
+    "name": "junonetwork",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://junonetwork.io/",
+    "twitter":"JunoNetwork",
+    "discord":"caEBtA4QDb",
+    "telegram":"JunoNetwork",
+    "team":"https://www.linkedin.com/company/juno-network/people/",
+    "size":"2"
+    },
+    {
+    "type": "project",
     "name": "levana",
     "category": "cosmos",
     "subcategory": "sei",
