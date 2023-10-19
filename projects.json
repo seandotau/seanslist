@@ -1,5 +1,17 @@
 [
     {
+    "type": "project",
+    "name": "base",
+    "category": "evm",
+    "subcategory": "layer 2",
+    "url": "https://base.org/",
+    "twitter":"buildonbase",
+    "discord":"buildonbase",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/coinbase/people/",
+    "size":"4334"
+    },
+    {
     "type": "organisation",
     "name": "jackallabs",
     "category": "cosmos",
