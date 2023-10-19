@@ -24,6 +24,18 @@
     "size":"4951"
     },
     {
+    "type": "project",
+    "name": "gnosis",
+    "category": "evm",
+    "subcategory": "layer 1",
+    "url": "https://www.gnosis.io/",
+    "twitter":"gnosischain",
+    "discord":"xW3X5EreBM",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/gnosis-limited/people/",
+    "size":"120"
+    },
+    {
     "type": "organisation",
     "name": "injective",
     "category": "cosmos",
