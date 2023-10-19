@@ -5,9 +5,9 @@
     "category": "cosmos",
     "subcategory": "cosmos",
     "url": "https://www.jackallabs.io/",
-    "twitter":"https://twitter.com/Jackal_Protocol",
-    "discord":"https://discord.com/invite/5GKym3p6rj",
-    "telegram":"https://t.me/+rtuZnbTlHaIzNjVh",
+    "twitter":"Jackal_Protocol",
+    "discord":"5GKym3p6rj",
+    "telegram":"+rtuZnbTlHaIzNjVh",
     "team":"https://www.jackallabs.io/team"
     },
     {
@@ -16,9 +16,9 @@
     "category": "cosmos",
     "subcategory": "cosmos",
     "url": "https://www.jackalprotocol.com/",
-    "twitter":"https://twitter.com/Jackal_Protocol",
-    "discord":"https://discord.com/invite/5GKym3p6rj",
-    "telegram":"https://t.me/+rtuZnbTlHaIzNjVh",
+    "twitter":"Jackal_Protocol",
+    "discord":"5GKym3p6rj",
+    "telegram":"+rtuZnbTlHaIzNjVh",
     "team":"https://www.jackallabs.io/team"
     },
     {
@@ -27,9 +27,9 @@
     "category": "cosmos",
     "subcategory": "sei",
     "url": "https://www.levana.finance/",
-    "twitter":"https://twitter.com/Levana_protocol",
-    "discord":"https://discord.com/invite/RqTCqks8yk",
-    "telegram":"https://t.me/+rtuZnbTlHaIzNjVh",
+    "twitter":"Levana_protocol",
+    "discord":"RqTCqks8yk",
+    "telegram":"rtuZnbTlHaIzNjVh",
     "team":"https://www.linkedin.com/company/levana-protocol/people/"
     },
     {
@@ -38,9 +38,9 @@
     "category": "evm",
     "subcategory": "",
     "url": "https://www.mantle.xyz/",
-    "twitter":"https://twitter.com/0xMantle",
-    "discord":"https://discord.com/invite/0xMantle",
-    "telegram":"https://t.me/mantlenetwork",
+    "twitter":"0xMantle",
+    "discord":"0xMantle",
+    "telegram":"mantlenetwork",
     "team":"https://www.linkedin.com/company/0xmantle/people/"
     },
     {
@@ -49,9 +49,9 @@
     "category": "cosmos",
     "subcategory": "cosmos zone",
     "url": "https://neutron.org/",
-    "twitter":"https://twitter.com/Neutron_org",
-    "discord":"https://discord.com/invite/zRT2ZkQsxA",
-    "telegram":"https://t.me/neutron_community",
+    "twitter":"Neutron_org",
+    "discord":"zRT2ZkQsxA",
+    "telegram":"neutron_community",
     "team":""
     },
     {
@@ -60,9 +60,9 @@
     "category": "cosmos",
     "subcategory": "cosmos zone",
     "url": "https://omniflix.network/",
-    "twitter":"https://twitter.com/OmniFlixNetwork",
-    "discord":"https://discord.com/invite/6gdQ4yZSTC",
-    "telegram":"https://t.me/OmniFlixNetwork",
+    "twitter":"OmniFlixNetwork",
+    "discord":"6gdQ4yZSTC",
+    "telegram":"OmniFlixNetwork",
     "team":"https://www.linkedin.com/company/omniflixnetwork/people/"
   }
 ]
