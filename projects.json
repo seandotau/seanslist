@@ -8,7 +8,8 @@
     "twitter":"Jackal_Protocol",
     "discord":"5GKym3p6rj",
     "telegram":"+rtuZnbTlHaIzNjVh",
-    "team":"https://www.jackallabs.io/team"
+    "team":"https://www.jackallabs.io/team",
+    "size":"7"
     },
     {
     "type": "project",
@@ -19,7 +20,8 @@
     "twitter":"Jackal_Protocol",
     "discord":"5GKym3p6rj",
     "telegram":"+rtuZnbTlHaIzNjVh",
-    "team":"https://www.jackallabs.io/team"
+    "team":"https://www.jackallabs.io/team",
+    "size":"7"
     },
     {
     "type": "project",
@@ -42,7 +44,8 @@
     "twitter":"0xMantle",
     "discord":"0xMantle",
     "telegram":"mantlenetwork",
-    "team":"https://www.linkedin.com/company/0xmantle/people/"
+    "team":"https://www.linkedin.com/company/0xmantle/people/",
+    "size":"7"
     },
     {
     "type": "project",
@@ -53,7 +56,8 @@
     "twitter":"Neutron_org",
     "discord":"zRT2ZkQsxA",
     "telegram":"neutron_community",
-    "team":""
+    "team":"",
+    "size":"7"
     },
     {
     "type": "project",
