@@ -82,5 +82,17 @@
     "telegram":"OmniFlixNetwork",
     "team":"https://www.linkedin.com/company/omniflixnetwork/people/",
     "size":"7"
+    },
+    {
+    "type": "project",
+    "name": "scroll",
+    "category": "evm",
+    "subcategory": "layer 2",
+    "url": "https://scroll.io/",
+    "twitter":"Scroll_ZKP",
+    "discord":"scroll",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/scroll-io/people/",
+    "size":"60"
   }
 ]
