@@ -12,6 +12,18 @@
     "size":"4334"
     },
     {
+    "type": "project",
+    "name": "cronos",
+    "category": "evm",
+    "subcategory": "layer 1",
+    "url": "https://cronos.org/",
+    "twitter":"cronos_chain",
+    "discord":"pahqHz26q4",
+    "telegram":"",
+    "team":"",
+    "size":""
+    },
+    {
     "type": "organisation",
     "name": "jackallabs",
     "category": "cosmos",
