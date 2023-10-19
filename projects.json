@@ -45,9 +45,20 @@
     },
     {
     "type": "project",
+    "name": "neutron",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://neutron.org/",
+    "twitter":"https://twitter.com/Neutron_org",
+    "discord":"https://discord.com/invite/zRT2ZkQsxA",
+    "telegram":"https://t.me/neutron_community",
+    "team":""
+    },
+    {
+    "type": "project",
     "name": "omniflix",
     "category": "cosmos",
-    "subcategory": "cosmos",
+    "subcategory": "cosmos zone",
     "url": "https://omniflix.network/",
     "twitter":"https://twitter.com/OmniFlixNetwork",
     "discord":"https://discord.com/invite/6gdQ4yZSTC",
