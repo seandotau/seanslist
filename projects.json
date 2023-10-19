@@ -73,6 +73,18 @@
     },
     {
     "type": "project",
+    "name": "meter",
+    "category": "evm",
+    "subcategory": "",
+    "url": "https://meter.io/",
+    "twitter":"meter_io",
+    "discord":"WPjTpMG",
+    "telegram":"Meter_IO",
+    "team":"https://www.linkedin.com/company/meterio/people/",
+    "size":"16"
+    },
+    {
+    "type": "project",
     "name": "neutron",
     "category": "cosmos",
     "subcategory": "cosmos zone",
