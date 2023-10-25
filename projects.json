@@ -1,6 +1,18 @@
 [
     {
     "type": "project",
+    "name": "agoric",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://base.org/",
+    "twitter":"agoric",
+    "discord":"qDW8DRes4s",
+    "telegram":"agoricsystems",
+    "team":"https://agoric.com/team",
+    "size":"34"
+    },
+    {
+    "type": "project",
     "name": "base",
     "category": "evm",
     "subcategory": "layer 2",
