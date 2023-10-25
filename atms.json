@@ -22,5 +22,13 @@
     "subcategory": "",
     "url": "https://coinflip.tech/",
     "size": ""    
+  },
+  {
+    "type": "atm",
+    "name": "rockitcoin",
+    "category": "atm",
+    "subcategory": "",
+    "url": "https://www.rockitcoin.com/",
+    "size": ""    
   }
 ]
