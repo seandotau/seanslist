@@ -9,6 +9,14 @@
   },
   {
     "type": "wallets",
+    "name": "coinomi",
+    "category": "wallets",
+    "subcategory": "software",
+    "url": "https://www.coinomi.com/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
     "name": "metamask",
     "category": "wallets",
     "subcategory": "software",
