@@ -17,10 +17,26 @@
   },
   {
     "type": "wallets",
+    "name": "ledger",
+    "category": "wallets",
+    "subcategory": "hardware",
+    "url": "https://www.ledger.com/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
     "name": "metamask",
     "category": "wallets",
     "subcategory": "software",
     "url": "https://metamask.io/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "trezor",
+    "category": "wallets",
+    "subcategory": "hardware",
+    "url": "https://trezor.io/",
     "size": ""
   }
 ]
