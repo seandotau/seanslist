@@ -6,5 +6,13 @@
     "subcategory": "",
     "url": "https://www.getmonero.org/",
     "size": ""
+  },
+  {
+    "type": "coins",
+    "name": "zcash",
+    "category": "privacy",
+    "subcategory": "",
+    "url": "https://z.cash/",
+    "size": ""
   }
 ]
