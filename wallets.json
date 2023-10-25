@@ -38,5 +38,13 @@
     "subcategory": "hardware",
     "url": "https://trezor.io/",
     "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "trustwallet",
+    "category": "wallets",
+    "subcategory": "software",
+    "url": "https://trustwallet.com/",
+    "size": ""
   }
 ]
