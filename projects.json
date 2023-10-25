@@ -178,5 +178,17 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/scroll-io/people/",
     "size":"60"
-  }
+    },
+    {
+    "type": "project",
+    "name": "whitewhale",
+    "category": "cosmos",
+    "subcategory": "",
+    "url": "https://whitewhale.money/",
+    "twitter":"WhiteWhaleDefi",
+    "discord":"pc5EXCBfEw",
+    "telegram":"whitewhaleofficial",
+    "team":"https://whitewhale.money/#team",
+    "size":"12"
+    }
 ]
