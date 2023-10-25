@@ -6,5 +6,21 @@
     "subcategory": "",
     "url": "https://bitcoindepot.com/",
     "size": ""    
+  },
+  {
+    "type": "atm",
+    "name": "bitstop",
+    "category": "atm",
+    "subcategory": "",
+    "url": "https://bitstop.co/",
+    "size": ""    
+  },
+  {
+    "type": "atm",
+    "name": "coinflip",
+    "category": "atm",
+    "subcategory": "",
+    "url": "https://coinflip.tech/",
+    "size": ""    
   }
 ]
