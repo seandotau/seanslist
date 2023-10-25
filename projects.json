@@ -37,6 +37,18 @@
     },
     {
     "type": "project",
+    "name": "fetchai",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://fetch.ai/",
+    "twitter":"Fetch_ai",
+    "discord":"fetchai",
+    "telegram":"fetch_ai",
+    "team":"https://www.linkedin.com/company/fetch-ai/people/",
+    "size":"67"
+    },
+    {
+    "type": "project",
     "name": "gnosis",
     "category": "evm",
     "subcategory": "layer 1",
