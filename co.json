@@ -6,5 +6,13 @@
   "twitter":"chainalysis",
   "team":"https://www.linkedin.com/company/chainalysis/",
   "size":"877"
+  },
+  {
+  "name": "breadcrumbs",
+  "tag": "breadcrumbs-2",
+  "url": "https://www.breadcrumbs.app/",
+  "twitter":"AppBreadcrumbs",
+  "team":"https://www.breadcrumbs.app/about",
+  "size":"15"
   }
 ]
