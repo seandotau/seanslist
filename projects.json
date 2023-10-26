@@ -25,6 +25,18 @@
     },
     {
     "type": "project",
+    "name": "boba",
+    "category": "evm",
+    "subcategory": "layer 2",
+    "url": "https://boba.network/",
+    "twitter":"bobanetwork",
+    "discord":"Hvu3zpFwWd",
+    "telegram":"bobanetwork",
+    "team":"https://www.linkedin.com/company/bobanetwork/people/",
+    "size":"15"
+    },
+    {
+    "type": "project",
     "name": "cheqd",
     "category": "cosmos",
     "subcategory": "",
