@@ -78,6 +78,17 @@
   },
   {
     "type": "analytics",
+    "name": "scorechain",
+    "tag": "scorechain",
+    "url": "https://scorechain.com/",
+    "twitter":"scorechain",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/scorechain/people/",
+    "size":"19"
+  },
+  {
+    "type": "analytics",
     "name": "trmlabs",
     "tag": "trm-labs",
     "url": "https://www.trmlabs.com/",
