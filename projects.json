@@ -25,6 +25,18 @@
     },
     {
     "type": "project",
+    "name": "cheqd",
+    "category": "cosmos",
+    "subcategory": "",
+    "url": "https://cheqd.io/",
+    "twitter":"cheqd_io",
+    "discord":"zjNCNZRZb6",
+    "telegram":"cheqd",
+    "team":"https://cheqd.io/team/",
+    "size":"12"
+    },
+    {
+    "type": "project",
     "name": "cronos",
     "category": "evm",
     "subcategory": "layer 1",
