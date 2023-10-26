@@ -1,6 +1,6 @@
 [
   {
-    "type": "blockchain analysis",
+    "type": "analytics",
     "name": "breadcrumbs",
     "tag": "breadcrumbs-2",
     "url": "https://www.breadcrumbs.app/",
@@ -10,7 +10,7 @@
     "size":"15"
   },
   {
-    "type": "blockchain analysis",
+    "type": "analytics",
     "name": "chainalysis",
     "tag": "chainalysis",
     "url": "https://www.chainalysis.com/",
@@ -20,7 +20,7 @@
     "size":"877"
   },
   {
-    "type": "blockchain analysis",
+    "type": "analytics",
     "name": "elliptic",
     "tag": "elliptic",
     "url": "https://www.elliptic.co/",
@@ -30,7 +30,18 @@
     "size":"180"
   },
   {
-    "type": "blockchain analysis",
+    "type": "analytics",
+    "name": "merklescience",
+    "tag": "merkle-science",
+    "url": "https://www.merklescience.com/",
+    "twitter":"MerkleScience",
+    "telegram": "MerkleScienceOfficial"
+    "discord":"",
+    "team":"https://www.linkedin.com/company/merklescience/people",
+    "size":"72"
+  },
+  {
+    "type": "analytics",
     "name": "trmlabs",
     "tag": "trm-labs",
     "url": "https://www.trmlabs.com/",
