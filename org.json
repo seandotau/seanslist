@@ -28,5 +28,15 @@
     "discord":"",
     "team":"https://www.linkedin.com/company/ellipticco/people/",
     "size":"180"
+  },
+  {
+    "type": "blockchain analysis",
+    "name": "trmlabs",
+    "tag": "trm-labs",
+    "url": "https://www.trmlabs.com/",
+    "twitter":"trmlabs",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/trmlabs/people/",
+    "size":"205"
   }
 ]
