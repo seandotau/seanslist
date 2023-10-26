@@ -34,6 +34,17 @@
   },
   {
     "type": "analytics",
+    "name": "clain",
+    "tag": "clain",
+    "url": "https://clain.io/",
+    "twitter":"clain_io",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/clain/people/",
+    "size":"29"
+  },
+  {
+    "type": "analytics",
     "name": "coinfirm",
     "tag": "coinfirm",
     "url": "https://www.coinfirm.com/",
