@@ -23,6 +23,17 @@
   },
   {
     "type": "analytics",
+    "name": "coinfirm",
+    "tag": "coinfirm",
+    "url": "https://www.coinfirm.com/",
+    "twitter":"coinfirm_io",
+    "telegram":"",
+    "discord":"",
+    "team":"coinfirm",
+    "size":"78"
+  },
+  {
+    "type": "analytics",
     "name": "elliptic",
     "tag": "elliptic",
     "url": "https://www.elliptic.co/",
