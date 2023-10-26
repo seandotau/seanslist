@@ -1,6 +1,17 @@
 [
   {
     "type": "analytics",
+    "name": "anchain",
+    "tag": "anchainai",
+    "url": "https://www.anchain.ai/",
+    "twitter":"anchainai",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/anchainai/people/",
+    "size":"39"
+  },
+  {
+    "type": "analytics",
     "name": "breadcrumbs",
     "tag": "breadcrumbs-2",
     "url": "https://www.breadcrumbs.app/",
@@ -57,7 +68,7 @@
   {
     "type": "analytics",
     "name": "notabene",
-    "tag": "notabene",
+    "tag": "notebene",
     "url": "https://notabene.id/",
     "twitter":"notabene_id",
     "telegram": "",
