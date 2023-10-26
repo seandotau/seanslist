@@ -1,9 +1,11 @@
 [
   {
   "name": "chainalysis",
+  "tag": "chainalysis",
   "url": "https://www.chainalysis.com/",
   "twitter":"chainalysis",
   "team":"https://www.linkedin.com/company/chainalysis/",
   "size":"877"
-  }
+  },
+  
 ]
