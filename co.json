@@ -1,16 +1,6 @@
 [
   {
     "type": "blockchain analysis",
-    "name": "chainalysis",
-    "tag": "chainalysis",
-    "url": "https://www.chainalysis.com/",
-    "twitter":"chainalysis",
-    "discord":"",
-    "team":"https://www.linkedin.com/company/chainalysis/",
-    "size":"877"
-  },
-  {
-    "type": "blockchain analysis",
     "name": "breadcrumbs",
     "tag": "breadcrumbs-2",
     "url": "https://www.breadcrumbs.app/",
