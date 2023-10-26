@@ -193,6 +193,18 @@
     },
     {
     "type": "project",
+    "name": "supraoracles",
+    "category": "oracles",
+    "subcategory": "",
+    "url": "https://supraoracles.com/",
+    "twitter":"SupraOracles",
+    "discord":"supraoracles",
+    "telegram":"SupraOracles",
+    "team":"https://supraoracles.com/about/",
+    "size":"23"
+    },
+    {
+    "type": "project",
     "name": "whitewhale",
     "category": "cosmos",
     "subcategory": "",
