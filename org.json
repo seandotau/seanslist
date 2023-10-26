@@ -5,6 +5,7 @@
     "tag": "breadcrumbs-2",
     "url": "https://www.breadcrumbs.app/",
     "twitter":"AppBreadcrumbs",
+    "telegram":"",
     "discord":"hjFxqG3",
     "team":"https://www.breadcrumbs.app/about",
     "size":"15"
@@ -15,6 +16,7 @@
     "tag": "chainalysis",
     "url": "https://www.chainalysis.com/",
     "twitter":"chainalysis",
+    "telegram":"",
     "discord":"",
     "team":"https://www.linkedin.com/company/chainalysis/people/",
     "size":"877"
@@ -25,6 +27,7 @@
     "tag": "elliptic",
     "url": "https://www.elliptic.co/",
     "twitter":"elliptic",
+    "telegram":"",
     "discord":"",
     "team":"https://www.linkedin.com/company/ellipticco/people/",
     "size":"180"
@@ -35,7 +38,7 @@
     "tag": "merkle-science",
     "url": "https://www.merklescience.com/",
     "twitter":"MerkleScience",
-    "telegram": "MerkleScienceOfficial"
+    "telegram": "MerkleScienceOfficial",
     "discord":"",
     "team":"https://www.linkedin.com/company/merklescience/people",
     "size":"72"
@@ -46,6 +49,7 @@
     "tag": "trm-labs",
     "url": "https://www.trmlabs.com/",
     "twitter":"trmlabs",
+    "telegram":"",
     "discord":"",
     "team":"https://www.linkedin.com/company/trmlabs/people/",
     "size":"205"
