@@ -8,5 +8,15 @@
     "discord":"hjFxqG3",
     "team":"https://www.breadcrumbs.app/about",
     "size":"15"
+  },
+  {
+    "type": "blockchain analysis",
+    "name": "chainalysis",
+    "tag": "chainalysis",
+    "url": "https://www.chainalysis.com/",
+    "twitter":"chainalysis",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/chainalysis/",
+    "size":"877"
   }
 ]
