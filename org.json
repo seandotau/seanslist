@@ -133,6 +133,17 @@
   },
   {
     "type": "analytics",
+    "name": "subquery",
+    "tag": "subquery",
+    "url": "https://subquery.network/",
+    "twitter":"subquerynetwork",
+    "telegram":"subquerynetwork",
+    "discord":"subquery",
+    "team":"https://www.linkedin.com/company/subquery/people/",
+    "size":"30"
+  },
+  {
+    "type": "analytics",
     "name": "trmlabs",
     "tag": "trm-labs",
     "url": "https://www.trmlabs.com/",
