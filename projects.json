@@ -61,6 +61,18 @@
     },
     {
     "type": "project",
+    "name": "dydx",
+    "category": "cosmos",
+    "subcategory": "",
+    "url": "https://dydx.exchange/",
+    "twitter":"dydx",
+    "discord":"dydx",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/dydx/people/",
+    "size":"76"
+    },
+    {
+    "type": "project",
     "name": "fetchai",
     "category": "cosmos",
     "subcategory": "cosmos zone",
