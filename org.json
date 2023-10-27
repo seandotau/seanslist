@@ -55,6 +55,17 @@
     "size":"78"
   },
   {
+    "type": "indexing",
+    "name": "covalenthq",
+    "tag": "covalent-1",
+    "url": "https://www.covalenthq.com/",
+    "twitter":"Covalent_HQ",
+    "telegram":"CovalentHQ",
+    "discord":"VHgmzB9973",
+    "team":"https://www.linkedin.com/company/covalenthq/people/",
+    "size":"78"
+  },
+  {
     "type": "analytics",
     "name": "crystalblockchain",
     "tag": "crystal-blockchain",
@@ -132,7 +143,7 @@
     "size":"73"
   },
   {
-    "type": "analytics",
+    "type": "indexing",
     "name": "subquery",
     "tag": "subquery",
     "url": "https://subquery.network/",
@@ -143,7 +154,7 @@
     "size":"30"
   },
   {
-    "type": "analytics",
+    "type": "indexing",
     "name": "thegraph",
     "tag": "the-graph",
     "url": "https://thegraph.com/",
