@@ -144,6 +144,17 @@
   },
   {
     "type": "analytics",
+    "name": "thegraph",
+    "tag": "the-graph",
+    "url": "https://thegraph.com/",
+    "twitter":"graphprotocol",
+    "telegram":"graphprotocol",
+    "discord":"vtvv7FP",
+    "team":"https://www.linkedin.com/company/thegraph/people/",
+    "size":"107"
+  }
+  {
+    "type": "analytics",
     "name": "trmlabs",
     "tag": "trm-labs",
     "url": "https://www.trmlabs.com/",
