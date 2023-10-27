@@ -123,6 +123,17 @@
   {
     "type": "analytics",
     "name": "trmlabs",
+    "tag": "solidus-labs",
+    "url": "https://www.soliduslabs.com/",
+    "twitter":"solidus_labs",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/soliduslabs/people/",
+    "size":"73"
+  },
+  {
+    "type": "analytics",
+    "name": "trmlabs",
     "tag": "trm-labs",
     "url": "https://www.trmlabs.com/",
     "twitter":"trmlabs",
