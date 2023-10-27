@@ -217,6 +217,18 @@
     },
     {
     "type": "project",
+    "name": "polymesh",
+    "category": "substrate",
+    "subcategory": "layer 1",
+    "url": "https://polymesh.network/",
+    "twitter":"PolymeshNetwork",
+    "discord":"ud2deWAnyt",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/polymeshnetwork/people/",
+    "size":"13"
+    },
+    {
+    "type": "project",
     "name": "scroll",
     "category": "evm",
     "subcategory": "layer 2",
