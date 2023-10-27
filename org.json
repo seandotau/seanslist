@@ -99,6 +99,17 @@
     "size":"180"
   },
   {
+    "type": "indexing",
+    "name": "goldsky",
+    "tag": "goldsky",
+    "url": "https://goldsky.com/",
+    "twitter":"goldskyio",
+    "telegram": "",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/goldsky-io/people/",
+    "size":"23"
+  },
+  {
     "type": "analytics",
     "name": "merklescience",
     "tag": "merkle-science",
@@ -106,7 +117,7 @@
     "twitter":"MerkleScience",
     "telegram": "MerkleScienceOfficial",
     "discord":"",
-    "team":"https://www.linkedin.com/company/merklescience/people",
+    "team":"https://www.linkedin.com/company/merklescience/people/",
     "size":"72"
   },
   {
