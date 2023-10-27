@@ -67,6 +67,17 @@
   },
   {
     "type": "analytics",
+    "name": "ciphertrace",
+    "tag": "ciphertrace",
+    "url": "https://ciphertrace.com/",
+    "twitter":"ciphertrace",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/ciphertrace/people/",
+    "size":"106"
+  },
+  {
+    "type": "analytics",
     "name": "elliptic",
     "tag": "elliptic",
     "url": "https://www.elliptic.co/",
