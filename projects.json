@@ -145,6 +145,18 @@
     },
     {
     "type": "project",
+    "name": "litentry",
+    "category": "polkadot",
+    "subcategory": "parachain",
+    "url": "https://www.litentry.com/",
+    "twitter":"litentry",
+    "discord":"6KxSqDPgWh",
+    "telegram":"litentry",
+    "team":"https://www.linkedin.com/company/litentry/people/",
+    "size":"33"
+    },
+    {
+    "type": "project",
     "name": "mantle",
     "category": "evm",
     "subcategory": "layer 2",
