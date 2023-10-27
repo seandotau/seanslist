@@ -121,7 +121,7 @@
     "size":"72"
   },
   {
-    "type": "analytics",
+    "type": "indexing",
     "name": "metricsdao",
     "tag": "",
     "url": "https://metricsdao.xyz/",
