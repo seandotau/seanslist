@@ -253,6 +253,18 @@
     },
     {
     "type": "project",
+    "name": "watr",
+    "category": "polkadot",
+    "subcategory": "parachain",
+    "url": "https://watr.org/",
+    "twitter":"WatrProtocol",
+    "discord":"",
+    "telegram":"watrprotocol",
+    "team":"https://www.linkedin.com/company/watrprotocol/people/",
+    "size":"4"
+    },
+    {
+    "type": "project",
     "name": "whitewhale",
     "category": "cosmos",
     "subcategory": "",
