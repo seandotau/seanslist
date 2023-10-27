@@ -51,8 +51,19 @@
     "twitter":"coinfirm_io",
     "telegram":"",
     "discord":"",
-    "team":"coinfirm",
+    "team":"https://www.linkedin.com/company/coinfirm/people/",
     "size":"78"
+  },
+  {
+    "type": "analytics",
+    "name": "crystalblockchain",
+    "tag": "crystal-blockchain",
+    "url": "https://crystalblockchain.com/",
+    "twitter":"CrystalPlatform",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/crystal-blockchain-analytics/people/",
+    "size":"42"
   },
   {
     "type": "analytics",
