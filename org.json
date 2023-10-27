@@ -122,6 +122,17 @@
   },
   {
     "type": "analytics",
+    "name": "metricsdao",
+    "tag": "",
+    "url": "https://metricsdao.xyz/",
+    "twitter":"MetricsDAO",
+    "telegram": "",
+    "discord":"p3GMjK2zAr",
+    "team":"https://www.linkedin.com/company/metricsdao/people/",
+    "size":"19"
+  },
+  {
+    "type": "analytics",
     "name": "notabene",
     "tag": "notebene",
     "url": "https://notabene.id/",
