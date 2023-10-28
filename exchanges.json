@@ -1,6 +1,14 @@
 [
   {
     "type": "exchange",
+    "name": "binance",
+    "category": "exchange",
+    "subcategory": "",
+    "url": "https://www.binance.com/",
+    "size": ""
+  },
+  {
+    "type": "exchange",
     "name": "coinbase",
     "category": "exchange",
     "subcategory": "",
