@@ -1,0 +1,10 @@
+[
+  {
+    "type": "exchange",
+    "name": "coinbase",
+    "category": "exchange",
+    "subcategory": "",
+    "url": "https://www.coinbase.com/",
+    "size": ""
+  }
+]
