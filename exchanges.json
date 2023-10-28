@@ -22,5 +22,13 @@
     "subcategory": "",
     "url": "https://crypto.com/",
     "size": ""
+  },
+  {
+    "type": "exchange",
+    "name": "okx",
+    "category": "exchange",
+    "subcategory": "",
+    "url": "https://www.okx.com/",
+    "size": ""
   }
 ]
