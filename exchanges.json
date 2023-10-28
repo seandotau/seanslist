@@ -14,5 +14,13 @@
     "subcategory": "",
     "url": "https://www.coinbase.com/",
     "size": ""
+  },
+  {
+    "type": "exchange",
+    "name": "crypto",
+    "category": "exchange",
+    "subcategory": "",
+    "url": "https://crypto.com/",
+    "size": ""
   }
 ]
