@@ -55,6 +55,17 @@
     "size":"78"
   },
   {
+    "type": "aml/tm",
+    "name": "complyadvantage",
+    "tag": "complyadvantage",
+    "url": "https://complyadvantage.com/",
+    "twitter":"complyadvantage",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/complyadvantage/people/",
+    "size":"465"
+  },
+  {
     "type": "indexing",
     "name": "covalenthq",
     "tag": "covalent-1",
