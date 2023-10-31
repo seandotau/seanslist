@@ -13,6 +13,18 @@
     },
     {
     "type": "project",
+    "name": "arbitrum",
+    "category": "evm",
+    "subcategory": "layer 2",
+    "url": "https://arbitrum.io/",
+    "twitter":"arbitrum",
+    "discord":"arbitrum",
+    "telegram":"arbitrum",
+    "team":"https://www.linkedin.com/company/arbitrum/people/",
+    "size":"60"
+    },
+    {
+    "type": "project",
     "name": "base",
     "category": "evm",
     "subcategory": "layer 2",
