@@ -304,12 +304,24 @@
     "name": "sora",
     "category": "polkadot",
     "subcategory": "parachain",
-    "url": "https://sora.org//",
+    "url": "https://sora.org/",
     "twitter":"sora_xor",
     "discord":"4TXRN6Y4gb",
     "telegram":"sora_xor",
     "team":"https://www.linkedin.com/company/sora-xor/people/",
     "size":"4"
+    },
+    {
+    "type": "project",
+    "name": "starfish",
+    "category": "polkadot",
+    "subcategory": "astar",
+    "url": "https://starfish.finance/",
+    "twitter":"Starfish_Fi",
+    "discord":"SxBNRR3EwM",
+    "telegram":"starfishfinanceofficial",
+    "team":"",
+    "size":""
     },
     {
     "type": "project",
