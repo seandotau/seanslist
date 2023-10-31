@@ -322,5 +322,17 @@
     "telegram":"whitewhaleofficial",
     "team":"https://whitewhale.money/#team",
     "size":"12"
+    },
+    {
+    "type": "project",
+    "name": "zoombies",
+    "category": "polkadot",
+    "subcategory": "moonbeam",
+    "url": "https://www.zoombies.info/",
+    "twitter":"cryptoznft",
+    "discord":"eDXvJKUZgQ",
+    "telegram":"",
+    "team":"",
+    "size":""
     }
 ]
