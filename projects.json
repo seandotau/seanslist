@@ -61,6 +61,18 @@
     },
     {
     "type": "project",
+    "name": "dymension",
+    "category": "cosmos",
+    "subcategory": "celestia zone",
+    "url": "https://dymension.xyz/",
+    "twitter":"dymension",
+    "discord":"dymension",
+    "telegram":"dymensionXYZ",
+    "team":"",
+    "size":"0"
+    },
+    {
+    "type": "project",
     "name": "dydx",
     "category": "cosmos",
     "subcategory": "",
