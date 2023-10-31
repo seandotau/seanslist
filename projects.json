@@ -229,6 +229,18 @@
     },
     {
     "type": "project",
+    "name": "phala",
+    "category": "polkadot",
+    "subcategory": "parachain",
+    "url": "https://phala.network/",
+    "twitter":"PhalaNetwork",
+    "discord":"phala",
+    "telegram":"phalanetwork",
+    "team":"https://www.linkedin.com/company/phala-network/people/",
+    "size":"29"
+    },
+    {
+    "type": "project",
     "name": "polymesh",
     "category": "substrate",
     "subcategory": "layer 1",
