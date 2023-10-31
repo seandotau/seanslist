@@ -217,6 +217,18 @@
     },
     {
     "type": "project",
+    "name": "moonbeam",
+    "category": "polkadot",
+    "subcategory": "parachain",
+    "url": "https://moonbeam.network/",
+    "twitter":"moonbeamnetwork",
+    "discord":"moonbeam",
+    "telegram":"Moonbeam_Official",
+    "team":"https://www.linkedin.com/company/moonbeam-network/people/",
+    "size":"78"
+    },
+    {
+    "type": "project",
     "name": "neutron",
     "category": "cosmos",
     "subcategory": "cosmos zone",
