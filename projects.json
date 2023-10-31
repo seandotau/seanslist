@@ -49,6 +49,18 @@
     },
     {
     "type": "project",
+    "name": "centrifuge",
+    "category": "polkadot",
+    "subcategory": "parachain",
+    "url": "https://centrifuge.io/",
+    "twitter":"centrifuge",
+    "discord":"yEzyUq5gxF",
+    "telegram":"centrifuge_chat",
+    "team":"https://www.linkedin.com/company/centrifugehq/people/",
+    "size":"53"
+    },
+    {
+    "type": "project",
     "name": "cheqd",
     "category": "cosmos",
     "subcategory": "",
