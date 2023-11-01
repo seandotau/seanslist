@@ -49,6 +49,18 @@
     },
     {
     "type": "project",
+    "name": "bitsong",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://bitsong.io/",
+    "twitter":"BitSongOfficial",
+    "discord":"mZC9Yk3",
+    "telegram":"BitSongOfficial",
+    "team":"https://www.linkedin.com/company/bitsong/people/",
+    "size":"17*"
+    },
+    {
+    "type": "project",
     "name": "boba",
     "category": "evm",
     "subcategory": "layer 2",
