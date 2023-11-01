@@ -397,6 +397,18 @@
     },
     {
     "type": "project",
+    "name": "senderwallet",
+    "category": "near",
+    "subcategory": "wallet",
+    "url": "https://senderwallet.io/",
+    "twitter":"SenderWallet",
+    "discord":"",
+    "telegram":"sender_community",
+    "team":"https://www.linkedin.com/company/sender-wallet/people/",
+    "size":"1"
+    },
+    {
+    "type": "project",
     "name": "sora",
     "category": "polkadot",
     "subcategory": "parachain",
