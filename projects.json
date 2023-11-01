@@ -400,6 +400,18 @@
     "name": "watr",
     "category": "polkadot",
     "subcategory": "parachain",
+    "url": "https://thorchain.org/",
+    "twitter":"thorchain",
+    "discord":"c4EhDZdFMA",
+    "telegram":"thorchain_org",
+    "team":"https://www.linkedin.com/company/thorchain-protocol/people/",
+    "size":"7"
+    },
+    {
+    "type": "project",
+    "name": "watr",
+    "category": "polkadot",
+    "subcategory": "parachain",
     "url": "https://watr.org/",
     "twitter":"WatrProtocol",
     "discord":"",
