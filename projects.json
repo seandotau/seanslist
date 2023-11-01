@@ -265,6 +265,18 @@
     },
     {
     "type": "project",
+    "name": "novawallet",
+    "category": "polkadot",
+    "subcategory": "wallet",
+    "url": "https://novawallet.io/",
+    "twitter":"NovaWalletApp",
+    "discord":"",
+    "telegram":"novawallet",
+    "team":"https://novawallet.io/#Team",
+    "size":"11"
+    },
+    {
+    "type": "project",
     "name": "omniflix",
     "category": "cosmos",
     "subcategory": "cosmos zone",
