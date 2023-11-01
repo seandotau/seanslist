@@ -25,6 +25,18 @@
     },
     {
     "type": "project",
+    "name": "axelar",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://axelar.network/",
+    "twitter":"axelarnetwork",
+    "discord":"aRZ3Ra6f7D",
+    "telegram":"axelarcommunity",
+    "team":"https://www.linkedin.com/company/axelarnetwork/people/",
+    "size":"59*"
+    },
+    {
+    "type": "project",
     "name": "base",
     "category": "evm",
     "subcategory": "layer 2",
