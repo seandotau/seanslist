@@ -181,6 +181,18 @@
     },
     {
     "type": "project",
+    "name": "kava",
+    "category": "cosmos",
+    "subcategory": "layer 1",
+    "url": "https://www.kava.io/",
+    "twitter":"KAVA_CHAIN",
+    "discord":"q6QuanE4bx",
+    "telegram":"kavalabs",
+    "team":"https://www.linkedin.com/company/kava-labs/people/",
+    "size":"47"
+    },
+    {
+    "type": "project",
     "name": "levana",
     "category": "cosmos",
     "subcategory": "sei",
