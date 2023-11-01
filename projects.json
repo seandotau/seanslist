@@ -13,6 +13,18 @@
     },
     {
     "type": "project",
+    "name": "alter",
+    "category": "cosmos",
+    "subcategory": "secret",
+    "url": "https://alter.network/",
+    "twitter":"AlterDapp",
+    "discord":"jyTnQnpnbU",
+    "telegram":"alterdapp",
+    "team":"https://www.linkedin.com/company/alterhubnetwork/people/",
+    "size":"5"
+    },
+    {
+    "type": "project",
     "name": "arbitrum",
     "category": "evm",
     "subcategory": "layer 2",
