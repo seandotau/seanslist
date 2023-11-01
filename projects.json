@@ -445,6 +445,18 @@
     },
     {
     "type": "project",
+    "name": "vara",
+    "category": "polkadot",
+    "subcategory": "gear",
+    "url": "https://vara-network.io/",
+    "twitter":"VaraNetwork",
+    "discord":"x8ZeSy6S6K",
+    "telegram":"VaraNetwork_Global",
+    "team":"",
+    "size":""
+    },
+    {
+    "type": "project",
     "name": "watr",
     "category": "polkadot",
     "subcategory": "parachain",
