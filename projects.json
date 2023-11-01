@@ -265,6 +265,18 @@
     },
     {
     "type": "project",
+    "name": "nodle",
+    "category": "polkadot",
+    "subcategory": "parachain",
+    "url": "https://www.nodle.com/",
+    "twitter":"nodlenetwork",
+    "discord":"N5nTUt8RWJ",
+    "telegram":"nodlecommunity",
+    "team":"https://www.linkedin.com/company/nodle/people/",
+    "size":"44"
+    },
+    {
+    "type": "project",
     "name": "novawallet",
     "category": "polkadot",
     "subcategory": "wallet",
