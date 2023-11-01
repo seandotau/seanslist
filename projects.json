@@ -25,6 +25,18 @@
     },
     {
     "type": "project",
+    "name": "assetmantle",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://www.assetmantle.one/",
+    "twitter":"AssetMantle",
+    "discord":"BSdBQ4495d",
+    "telegram":"assetmantlechat",
+    "team":"https://www.linkedin.com/company/assetmantle/people/",
+    "size":"24"
+    },
+    {
+    "type": "project",
     "name": "axelar",
     "category": "cosmos",
     "subcategory": "cosmos zone",
