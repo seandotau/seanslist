@@ -74,8 +74,8 @@
     {
     "type": "project",
     "name": "cronos",
-    "category": "evm",
-    "subcategory": "layer 1",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
     "url": "https://cronos.org/",
     "twitter":"cronos_chain",
     "discord":"pahqHz26q4",
