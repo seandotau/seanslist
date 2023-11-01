@@ -169,6 +169,18 @@
     },
     {
     "type": "project",
+    "name": "gear",
+    "category": "polkadot",
+    "subcategory": "parachain",
+    "url": "https://gear-tech.io/",
+    "twitter":"gear_techs",
+    "discord":"x8ZeSy6S6K",
+    "telegram":"gear_tech",
+    "team":"https://www.linkedin.com/company/geartechnologies/people/",
+    "size":"27"
+    },
+    {
+    "type": "project",
     "name": "gnosis",
     "category": "evm",
     "subcategory": "layer 1",
