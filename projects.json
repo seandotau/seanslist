@@ -253,6 +253,18 @@
     },
     {
     "type": "project",
+    "name": "klaytn",
+    "category": "evm",
+    "subcategory": "layer 1",
+    "url": "https://klaytn.foundation/",
+    "twitter":"klaytn_official",
+    "discord":"KlaytnOfficial",
+    "telegram":"Klaytn_EN",
+    "team":"https://www.linkedin.com/company/klaytnfoundation/people/",
+    "size":"62"
+    },
+    {
+    "type": "project",
     "name": "levana",
     "category": "cosmos",
     "subcategory": "sei",
