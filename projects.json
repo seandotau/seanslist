@@ -373,6 +373,18 @@
     },
     {
     "type": "project",
+    "name": "parallel",
+    "category": "polkadot",
+    "subcategory": "parachain",
+    "url": "https://parallel.fi/",
+    "twitter":"ParallelFi",
+    "discord":"buKKx4dySW",
+    "telegram":"parallelfi_community",
+    "team":"https://www.linkedin.com/company/parallel-finance/people/",
+    "size":"54"
+    },
+    {
+    "type": "project",
     "name": "phala",
     "category": "polkadot",
     "subcategory": "parachain",
