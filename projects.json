@@ -433,6 +433,18 @@
     },
     {
     "type": "project",
+    "name": "secret network",
+    "category": "cosmos",
+    "subcategory": "layer 1",
+    "url": "https://scrt.network/",
+    "twitter":"SecretNetwork",
+    "discord":"SJK32GY",
+    "telegram":"SCRTcommunity",
+    "team":"https://www.linkedin.com/company/secret-foundation/people/",
+    "size":"12"
+    },
+    {
+    "type": "project",
     "name": "sei",
     "category": "cosmos",
     "subcategory": "layer 1",
