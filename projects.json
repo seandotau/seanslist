@@ -121,6 +121,18 @@
     },
     {
     "type": "project",
+    "name": "comdex",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://comdex.one/",
+    "twitter":"ComdexOfficial",
+    "discord":"7vjPvWKKMT",
+    "telegram":"ComdexChat",
+    "team":"https://www.linkedin.com/company/comdexofficial/people/",
+    "size":"36"
+    },
+    {
+    "type": "project",
     "name": "cronos",
     "category": "cosmos",
     "subcategory": "cosmos zone",
