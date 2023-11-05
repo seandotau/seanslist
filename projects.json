@@ -193,6 +193,18 @@
     },
     {
     "type": "project",
+    "name": "evmos",
+    "category": "cosmos",
+    "subcategory": "",
+    "url": "https://evmos.org/",
+    "twitter":"EvmosOrg",
+    "discord":"evmos",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/evmos/people/",
+    "size":"24"
+    },
+    {
+    "type": "project",
     "name": "fetchai",
     "category": "cosmos",
     "subcategory": "cosmos zone",
