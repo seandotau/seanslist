@@ -13,6 +13,18 @@
     },
     {
     "type": "project",
+    "name": "akash",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://akash.network/",
+    "twitter":"akashnet_",
+    "discord":"akash",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/ovrclk/people/",
+    "size":"2"
+    },
+    {
+    "type": "project",
     "name": "alter",
     "category": "cosmos",
     "subcategory": "secret",
