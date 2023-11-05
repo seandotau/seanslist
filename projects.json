@@ -385,6 +385,18 @@
     },
     {
     "type": "project",
+    "name": "persistence",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://persistence.one/",
+    "twitter":"PersistenceOne",
+    "discord":"qXRmTTGcYD",
+    "telegram":"PersistenceOne",
+    "team":"https://www.linkedin.com/company/persistenceone/people/",
+    "size":"36"
+    },
+    {
+    "type": "project",
     "name": "phala",
     "category": "polkadot",
     "subcategory": "parachain",
