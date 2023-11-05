@@ -121,6 +121,18 @@
     },
     {
     "type": "project",
+    "name": "celestia",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://celestia.org/",
+    "twitter":"CelestiaOrg",
+    "discord":"YsnTPcSfWQ",
+    "telegram":"CelestiaCommunity",
+    "team":"https://www.linkedin.com/company/celestiaorg/people/",
+    "size":"40"
+    },
+    {
+    "type": "project",
     "name": "centrifuge",
     "category": "polkadot",
     "subcategory": "parachain",
