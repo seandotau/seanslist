@@ -313,6 +313,18 @@
     },
     {
     "type": "project",
+    "name": "marsprotocol",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://www.marsprotocol.io/",
+    "twitter":"mars_protocol",
+    "discord":"marsprotocol",
+    "telegram":"martiannews",
+    "team":"",
+    "size":""
+    },
+    {
+    "type": "project",
     "name": "mantle",
     "category": "evm",
     "subcategory": "layer 2",
