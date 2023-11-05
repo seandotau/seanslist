@@ -409,6 +409,18 @@
     },
     {
     "type": "project",
+    "name": "okx",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://www.okx.com/oktc",
+    "twitter":"okx",
+    "discord":"e6EyvM5QwM",
+    "telegram":"OKXOfficial_English",
+    "team":"https://www.linkedin.com/company/okxofficial/people/",
+    "size":"2647"
+    },
+    {
+    "type": "project",
     "name": "omniflix",
     "category": "cosmos",
     "subcategory": "cosmos zone",
