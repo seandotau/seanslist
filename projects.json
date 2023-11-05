@@ -253,18 +253,6 @@
     },
     {
     "type": "project",
-    "name": "jackalprotocol",
-    "category": "cosmos",
-    "subcategory": "cosmos",
-    "url": "https://www.jackalprotocol.com/",
-    "twitter":"Jackal_Protocol",
-    "discord":"5GKym3p6rj",
-    "telegram":"+rtuZnbTlHaIzNjVh",
-    "team":"https://www.jackallabs.io/team",
-    "size":"11"
-    },
-    {
-    "type": "project",
     "name": "junonetwork",
     "category": "cosmos",
     "subcategory": "cosmos zone",
