@@ -17,6 +17,14 @@
   },
   {
     "type": "service",
+    "name": "flair",
+    "category": "indexer",
+    "subcategory": "",
+    "url": "https://docs.flair.build/",
+    "size": ""
+  },
+  {
+    "type": "service",
     "name": "goldsky",
     "category": "indexer",
     "subcategory": "",
@@ -25,10 +33,10 @@
   },
   {
     "type": "service",
-    "name": "flair",
+    "name": "numia",
     "category": "indexer",
     "subcategory": "",
-    "url": "https://docs.flair.build/",
+    "url": "https://www.numia.xyz/",
     "size": ""
   },
   {
