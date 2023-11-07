@@ -589,6 +589,18 @@
     },
     {
     "type": "project",
+    "name": "talisman",
+    "category": "wallets",
+    "subcategory": "",
+    "url": "https://www.talisman.xyz/",
+    "twitter":"wearetalisman",
+    "discord":"talisman",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/talismanwallet/people/",
+    "size":"16"
+    },
+    {
+    "type": "project",
     "name": "thorchain",
     "category": "cosmos",
     "subcategory": "layer 1",
