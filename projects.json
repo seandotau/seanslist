@@ -590,8 +590,8 @@
     {
     "type": "project",
     "name": "talisman",
-    "category": "wallets",
-    "subcategory": "",
+    "category": "polkadot",
+    "subcategory": "wallets",
     "url": "https://www.talisman.xyz/",
     "twitter":"wearetalisman",
     "discord":"talisman",
