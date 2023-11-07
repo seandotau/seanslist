@@ -229,6 +229,18 @@
     },
     {
     "type": "project",
+    "name": "fearlesswallet",
+    "category": "polkadot",
+    "subcategory": "wallet",
+    "url": "https://fearlesswallet.io/",
+    "twitter":"fearlesswallet",
+    "discord":"",
+    "telegram":"fearlesswallet",
+    "https://www.linkedin.com/company/soramitsu/people/",
+    "size":"117"
+    },
+    {
+    "type": "project",
     "name": "fetchai",
     "category": "cosmos",
     "subcategory": "cosmos zone",
