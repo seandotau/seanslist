@@ -505,18 +505,6 @@
     },
     {
     "type": "project",
-    "name": "polkadex",
-    "category": "polkadot",
-    "subcategory": "parachain",
-    "url": "https://polkadex.trade/",
-    "twitter":"polkadex",
-    "discord":"Uvua83QAzk",
-    "telegram":"Polkadex",
-    "team":"https://www.linkedin.com/company/polkadex/people/",
-    "size":"26"
-    },
-    {
-    "type": "project",
     "name": "polymesh",
     "category": "substrate",
     "subcategory": "layer 1",
