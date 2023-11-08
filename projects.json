@@ -601,6 +601,18 @@
     },
     {
     "type": "project",
+    "name": "stellaswap",
+    "category": "polkadot",
+    "subcategory": "moonbeam",
+    "url": "https://stellaswap.com/",
+    "twitter":"StellaSwap",
+    "discord":"FbdTFfg8bw",
+    "telegram":"stellaswap",
+    "team":"https://www.linkedin.com/company/stellaswap/people/",
+    "size":"4"
+    },
+    {
+    "type": "project",
     "name": "supraoracles",
     "category": "oracles",
     "subcategory": "",
