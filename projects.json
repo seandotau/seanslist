@@ -13,11 +13,11 @@
     "docs":"https://algomint-1.gitbook.io/algomint/"
     },
     {
-    "type": "project",
     "name": "andromedaprotocol",
+    "url": "https://www.andromedaprotocol.io/",
+    "type": "os",
     "category": "cosmos",
     "subcategory": "layer 1",
-    "url": "https://www.andromedaprotocol.io/",
     "twitter":"andromedaprot",
     "discord":"GBd6buKYyZ",
     "telegram":"andromedaprotocol",
