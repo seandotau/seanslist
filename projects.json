@@ -1,5 +1,17 @@
 [
     {
+    "name": "algomint",
+    "url": "https://algomint.io/",
+    "type": "bridge",
+    "category": "algorand",
+    "subcategory": "",
+    "twitter":"Algomint_io",
+    "discord":"rvq8G8Eycc",
+    "telegram":"Algomint2",
+    "team":"https://www.linkedin.com/company/algomint/people/",
+    "size":"9"
+    },
+    {
     "type": "project",
     "name": "andromedaprotocol",
     "category": "cosmos",
