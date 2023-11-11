@@ -715,11 +715,24 @@
     "docs":""
     },
     {
+    "name": "thegraph",
+    "url": "https://thegraph.com/",
     "type": "project",
+    "category": "evm",
+    "subcategory": "",
+    "twitter":"graphprotocol",
+    "discord":"graphprotocol",
+    "telegram":"graphprotocol",
+    "team":"https://www.linkedin.com/company/thegraph/people/",
+    "size":"114",
+    "docs":"https://thegraph.com/docs/en/"
+    },
+    {
     "name": "thorchain",
+    "url": "https://thorchain.org/",
+    "type": "project",
     "category": "cosmos",
     "subcategory": "layer 1",
-    "url": "https://thorchain.org/",
     "twitter":"thorchain",
     "discord":"c4EhDZdFMA",
     "telegram":"thorchain_org",
