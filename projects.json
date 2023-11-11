@@ -741,17 +741,17 @@
     "docs":""
     },
     {
-    "type": "project",
     "name": "vara",
+    "url": "https://vara-network.io/",
+    "type": "project",
     "category": "polkadot",
     "subcategory": "gear",
-    "url": "https://vara-network.io/",
     "twitter":"VaraNetwork",
     "discord":"x8ZeSy6S6K",
     "telegram":"VaraNetwork_Global",
     "team":"",
     "size":"",
-    "docs":""
+    "docs":"https://wiki.vara-network.io/docs/intro"
     },
     {
     "type": "project",
