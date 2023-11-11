@@ -24,5 +24,44 @@
     "team":"",
     "size":"",
     "docs":""
-    }
+    },
+    {
+    "type": "project",
+    "name": "agoric",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://agoric.com/",
+    "twitter":"agoric",
+    "discord":"qDW8DRes4s",
+    "telegram":"agoricsystems",
+    "team":"https://agoric.com/team",
+    "size":"34",
+    "docs":""
+    },
+    {
+    "type": "project",
+    "name": "akash",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://akash.network/",
+    "twitter":"akashnet_",
+    "discord":"akash",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/ovrclk/people/",
+    "size":"2",
+    "docs":""
+    },
+    {
+    "type": "project",
+    "name": "alter",
+    "category": "cosmos",
+    "subcategory": "secret",
+    "url": "https://alter.network/",
+    "twitter":"AlterDapp",
+    "discord":"jyTnQnpnbU",
+    "telegram":"alterdapp",
+    "team":"https://www.linkedin.com/company/alterhubnetwork/people/",
+    "size":"5",
+    "docs":""
+    },
 ]
