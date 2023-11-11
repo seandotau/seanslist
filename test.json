@@ -63,5 +63,83 @@
     "team":"https://www.linkedin.com/company/alterhubnetwork/people/",
     "size":"5",
     "docs":""
+    },
+    {
+    "name": "arbitrum",
+    "url": "https://arbitrum.io/",
+    "type": "chain",
+    "category": "evm",
+    "subcategory": "layer 2",
+    "twitter":"arbitrum",
+    "discord":"arbitrum",
+    "telegram":"arbitrum",
+    "team":"https://www.linkedin.com/company/arbitrum/people/",
+    "size":"60",
+    "docs":"https://developer.arbitrum.io/"
+    },
+    {
+    "type": "project",
+    "name": "assetmantle",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://www.assetmantle.one/",
+    "twitter":"AssetMantle",
+    "discord":"BSdBQ4495d",
+    "telegram":"assetmantlechat",
+    "team":"https://www.linkedin.com/company/assetmantle/people/",
+    "size":"24",
+    "docs":""
+    },
+    {
+    "type": "project",
+    "name": "axelar",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://axelar.network/",
+    "twitter":"axelarnetwork",
+    "discord":"aRZ3Ra6f7D",
+    "telegram":"axelarcommunity",
+    "team":"https://www.linkedin.com/company/axelarnetwork/people/",
+    "size":"59",
+    "docs":""
+    },
+    {
+    "type": "project",
+    "name": "base",
+    "category": "evm",
+    "subcategory": "layer 2",
+    "url": "https://base.org/",
+    "twitter":"buildonbase",
+    "discord":"buildonbase",
+    "telegram":"",
+    "team":"https://www.linkedin.com/company/coinbase/people/",
+    "size":"4334",
+    "docs":""
+    },
+    {
+    "type": "project",
+    "name": "bitsong",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
+    "url": "https://bitsong.io/",
+    "twitter":"BitSongOfficial",
+    "discord":"mZC9Yk3",
+    "telegram":"BitSongOfficial",
+    "team":"https://www.linkedin.com/company/bitsong/people/",
+    "size":"17",
+    "docs":""
+    },
+    {
+    "type": "project",
+    "name": "boba",
+    "category": "evm",
+    "subcategory": "layer 2",
+    "url": "https://boba.network/",
+    "twitter":"bobanetwork",
+    "discord":"Hvu3zpFwWd",
+    "telegram":"bobanetwork",
+    "team":"https://www.linkedin.com/company/bobanetwork/people/",
+    "size":"15",
+    "docs":""
     }
 ]
