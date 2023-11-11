@@ -61,16 +61,17 @@
     "size":"5"
     },
     {
-    "type": "project",
     "name": "arbitrum",
+    "url": "https://arbitrum.io/",
+    "type": "chain",
     "category": "evm",
     "subcategory": "layer 2",
-    "url": "https://arbitrum.io/",
     "twitter":"arbitrum",
     "discord":"arbitrum",
     "telegram":"arbitrum",
     "team":"https://www.linkedin.com/company/arbitrum/people/",
-    "size":"60"
+    "size":"60",
+    "docs":"https://developer.arbitrum.io/"
     },
     {
     "type": "project",
