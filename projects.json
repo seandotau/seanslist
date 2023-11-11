@@ -247,6 +247,19 @@
     "docs":""
     },
     {
+    "name": "empowerchain",
+    "url": "https://www.empowerchain.io/",
+    "type": "chain",
+    "category": "cosmos",
+    "subcategory": "layer 1",
+    "twitter":"empowerchain_io",
+    "discord":"UTxEzFzHVX",
+    "telegram":"empowerchain",
+    "team":"https://www.linkedin.com/company/empowerplastic/people/",
+    "size":"27",
+    "docs":"https://docs.empowerchain.io/"
+    },
+    {
     "type": "project",
     "name": "evmos",
     "category": "cosmos",
