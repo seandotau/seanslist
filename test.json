@@ -11,5 +11,18 @@
     "team":"https://www.linkedin.com/company/algomint/people/",
     "size":"9",
     "docs":"https://algomint-1.gitbook.io/algomint/"
+    },
+    {
+    "name": "andromedaprotocol",
+    "url": "https://www.andromedaprotocol.io/",
+    "type": "os",
+    "category": "cosmos",
+    "subcategory": "layer 1",
+    "twitter":"andromedaprot",
+    "discord":"GBd6buKYyZ",
+    "telegram":"andromedaprotocol",
+    "team":"",
+    "size":"",
+    "docs":""
     }
 ]
