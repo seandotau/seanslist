@@ -351,17 +351,17 @@
     "docs":""
     },
     {
-    "type": "project",
     "name": "junonetwork",
+    "url": "https://junonetwork.io/",
+    "type": "chain",
     "category": "cosmos",
     "subcategory": "cosmos zone",
-    "url": "https://junonetwork.io/",
     "twitter":"JunoNetwork",
     "discord":"caEBtA4QDb",
     "telegram":"JunoNetwork",
     "team":"https://www.linkedin.com/company/juno-network/people/",
     "size":"2",
-    "docs":""
+    "docs":"https://docs.junonetwork.io/juno/readme"
     },
     {
     "type": "project",
