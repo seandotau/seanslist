@@ -22,7 +22,8 @@
     "discord":"GBd6buKYyZ",
     "telegram":"andromedaprotocol",
     "team":"",
-    "size":""
+    "size":"",
+    "docs":""
     },
     {
     "type": "project",
@@ -34,7 +35,8 @@
     "discord":"qDW8DRes4s",
     "telegram":"agoricsystems",
     "team":"https://agoric.com/team",
-    "size":"34"
+    "size":"34",
+    "docs":""
     },
     {
     "type": "project",
@@ -46,7 +48,8 @@
     "discord":"akash",
     "telegram":"",
     "team":"https://www.linkedin.com/company/ovrclk/people/",
-    "size":"2"
+    "size":"2",
+    "docs":""
     },
     {
     "type": "project",
@@ -58,7 +61,8 @@
     "discord":"jyTnQnpnbU",
     "telegram":"alterdapp",
     "team":"https://www.linkedin.com/company/alterhubnetwork/people/",
-    "size":"5"
+    "size":"5",
+    "docs":""
     },
     {
     "name": "arbitrum",
@@ -83,7 +87,8 @@
     "discord":"BSdBQ4495d",
     "telegram":"assetmantlechat",
     "team":"https://www.linkedin.com/company/assetmantle/people/",
-    "size":"24"
+    "size":"24",
+    "docs":""
     },
     {
     "type": "project",
@@ -95,7 +100,8 @@
     "discord":"aRZ3Ra6f7D",
     "telegram":"axelarcommunity",
     "team":"https://www.linkedin.com/company/axelarnetwork/people/",
-    "size":"59"
+    "size":"59",
+    "docs":""
     },
     {
     "type": "project",
@@ -107,7 +113,8 @@
     "discord":"buildonbase",
     "telegram":"",
     "team":"https://www.linkedin.com/company/coinbase/people/",
-    "size":"4334"
+    "size":"4334",
+    "docs":""
     },
     {
     "type": "project",
@@ -119,7 +126,8 @@
     "discord":"mZC9Yk3",
     "telegram":"BitSongOfficial",
     "team":"https://www.linkedin.com/company/bitsong/people/",
-    "size":"17"
+    "size":"17",
+    "docs":""
     },
     {
     "type": "project",
@@ -131,7 +139,8 @@
     "discord":"Hvu3zpFwWd",
     "telegram":"bobanetwork",
     "team":"https://www.linkedin.com/company/bobanetwork/people/",
-    "size":"15"
+    "size":"15",
+    "docs":""
     },
     {
     "type": "project",
@@ -143,7 +152,8 @@
     "discord":"YsnTPcSfWQ",
     "telegram":"CelestiaCommunity",
     "team":"https://www.linkedin.com/company/celestiaorg/people/",
-    "size":"40"
+    "size":"40",
+    "docs":""
     },
     {
     "type": "project",
@@ -155,7 +165,8 @@
     "discord":"yEzyUq5gxF",
     "telegram":"centrifuge_chat",
     "team":"https://www.linkedin.com/company/centrifugehq/people/",
-    "size":"53"
+    "size":"53",
+    "docs":""
     },
     {
     "type": "project",
@@ -167,7 +178,8 @@
     "discord":"zjNCNZRZb6",
     "telegram":"cheqd",
     "team":"https://cheqd.io/team/",
-    "size":"12"
+    "size":"12",
+    "docs":""
     },
     {
     "type": "project",
@@ -179,7 +191,8 @@
     "discord":"7vjPvWKKMT",
     "telegram":"ComdexChat",
     "team":"https://www.linkedin.com/company/comdexofficial/people/",
-    "size":"36"
+    "size":"36",
+    "docs":""
     },
     {
     "type": "project",
@@ -191,7 +204,8 @@
     "discord":"pahqHz26q4",
     "telegram":"",
     "team":"https://www.linkedin.com/company/cryptocom/people/",
-    "size":"4951"
+    "size":"4951",
+    "docs":""
     },
     {
     "type": "project",
@@ -203,7 +217,8 @@
     "discord":"",
     "telegram":"",
     "team":"https://www.linkedin.com/in/johndibernardi/",
-    "size":"2"
+    "size":"2",
+    "docs":""
     },
     {
     "type": "project",
@@ -215,7 +230,8 @@
     "discord":"dymension",
     "telegram":"dymensionXYZ",
     "team":"",
-    "size":"0"
+    "size":"0",
+    "docs":""
     },
     {
     "type": "project",
@@ -227,7 +243,8 @@
     "discord":"dydx",
     "telegram":"",
     "team":"https://www.linkedin.com/company/dydx/people/",
-    "size":"76"
+    "size":"76",
+    "docs":""
     },
     {
     "type": "project",
@@ -239,7 +256,8 @@
     "discord":"evmos",
     "telegram":"",
     "team":"https://www.linkedin.com/company/evmos/people/",
-    "size":"24"
+    "size":"24",
+    "docs":""
     },
     {
     "type": "project",
@@ -251,7 +269,8 @@
     "discord":"",
     "telegram":"fearlesswallet",
     "team":"https://www.linkedin.com/company/soramitsu/people/",
-    "size":"117"
+    "size":"117",
+    "docs":""
     },
     {
     "type": "project",
@@ -263,7 +282,8 @@
     "discord":"fetchai",
     "telegram":"fetch_ai",
     "team":"https://www.linkedin.com/company/fetch-ai/people/",
-    "size":"67"
+    "size":"67",
+    "docs":""
     },
     {
     "type": "project",
@@ -275,7 +295,8 @@
     "discord":"x8ZeSy6S6K",
     "telegram":"gear_tech",
     "team":"https://www.linkedin.com/company/geartechnologies/people/",
-    "size":"27"
+    "size":"27",
+    "docs":""
     },
     {
     "type": "project",
@@ -287,7 +308,8 @@
     "discord":"xW3X5EreBM",
     "telegram":"",
     "team":"https://www.linkedin.com/company/gnosis-limited/people/",
-    "size":"120"
+    "size":"120",
+    "docs":""
     },
     {
     "type": "organisation",
@@ -299,7 +321,8 @@
     "discord":"NK4qdbv",
     "telegram":"joininjective",
     "team":"https://www.linkedin.com/company/injective-labs/people/",
-    "size":"62"
+    "size":"62",
+    "docs":""
     },
     {
     "type": "organisation",
@@ -323,7 +346,8 @@
     "discord":"caEBtA4QDb",
     "telegram":"JunoNetwork",
     "team":"https://www.linkedin.com/company/juno-network/people/",
-    "size":"2"
+    "size":"2",
+    "docs":""
     },
     {
     "type": "project",
@@ -335,7 +359,8 @@
     "discord":"q6QuanE4bx",
     "telegram":"kavalabs",
     "team":"https://www.linkedin.com/company/kava-labs/people/",
-    "size":"47"
+    "size":"47",
+    "docs":""
     },
     {
     "type": "project",
@@ -347,7 +372,8 @@
     "discord":"KlaytnOfficial",
     "telegram":"Klaytn_EN",
     "team":"https://www.linkedin.com/company/klaytnfoundation/people/",
-    "size":"62"
+    "size":"62",
+    "docs":""
     },
     {
     "type": "project",
@@ -359,7 +385,8 @@
     "discord":"RqTCqks8yk",
     "telegram":"",
     "team":"https://www.linkedin.com/company/levana-protocol/people/",
-    "size":"10"
+    "size":"10",
+    "docs":""
     },
     {
     "type": "project",
@@ -371,7 +398,8 @@
     "discord":"6KxSqDPgWh",
     "telegram":"litentry",
     "team":"https://www.linkedin.com/company/litentry/people/",
-    "size":"33"
+    "size":"33",
+    "docs":""
     },
     {
     "type": "project",
@@ -383,7 +411,8 @@
     "discord":"marsprotocol",
     "telegram":"martiannews",
     "team":"",
-    "size":""
+    "size":"",
+    "docs":""
     },
     {
     "type": "project",
@@ -395,7 +424,8 @@
     "discord":"0xMantle",
     "telegram":"mantlenetwork",
     "team":"https://www.linkedin.com/company/0xmantle/people/",
-    "size":"39"
+    "size":"39",
+    "docs":""
     },
     {
     "type": "project",
@@ -407,7 +437,8 @@
     "discord":"WPjTpMG",
     "telegram":"Meter_IO",
     "team":"https://www.linkedin.com/company/meterio/people/",
-    "size":"16"
+    "size":"16",
+    "docs":""
     },
     {
     "type": "project",
@@ -419,7 +450,8 @@
     "discord":"moonbeam",
     "telegram":"Moonbeam_Official",
     "team":"https://www.linkedin.com/company/moonbeam-network/people/",
-    "size":"78"
+    "size":"78",
+    "docs":""
     },
     {
     "type": "project",
@@ -431,7 +463,8 @@
     "discord":"zRT2ZkQsxA",
     "telegram":"neutron_community",
     "team":"",
-    "size":""
+    "size":"",
+    "docs":""
     },
     {
     "type": "project",
@@ -443,7 +476,8 @@
     "discord":"N5nTUt8RWJ",
     "telegram":"nodlecommunity",
     "team":"https://www.linkedin.com/company/nodle/people/",
-    "size":"44"
+    "size":"44",
+    "docs":""
     },
     {
     "type": "project",
@@ -455,7 +489,8 @@
     "discord":"",
     "telegram":"novawallet",
     "team":"https://novawallet.io/#Team",
-    "size":"11"
+    "size":"11",
+    "docs":""
     },
     {
     "type": "project",
@@ -467,7 +502,8 @@
     "discord":"e6EyvM5QwM",
     "telegram":"OKXOfficial_English",
     "team":"https://www.linkedin.com/company/okxofficial/people/",
-    "size":"2647"
+    "size":"2647",
+    "docs":""
     },
     {
     "type": "project",
@@ -479,7 +515,8 @@
     "discord":"6gdQ4yZSTC",
     "telegram":"OmniFlixNetwork",
     "team":"https://www.linkedin.com/company/omniflixnetwork/people/",
-    "size":"7"
+    "size":"7",
+    "docs":""
     },
     {
     "type": "project",
@@ -491,7 +528,8 @@
     "discord":"buKKx4dySW",
     "telegram":"parallelfi_community",
     "team":"https://www.linkedin.com/company/parallel-finance/people/",
-    "size":"54"
+    "size":"54",
+    "docs":""
     },
     {
     "type": "project",
@@ -503,7 +541,8 @@
     "discord":"qXRmTTGcYD",
     "telegram":"PersistenceOne",
     "team":"https://www.linkedin.com/company/persistenceone/people/",
-    "size":"36"
+    "size":"36",
+    "docs":""
     },
     {
     "type": "project",
@@ -515,7 +554,8 @@
     "discord":"phala",
     "telegram":"phalanetwork",
     "team":"https://www.linkedin.com/company/phala-network/people/",
-    "size":"29"
+    "size":"29",
+    "docs":""
     },
     {
     "type": "project",
@@ -527,7 +567,8 @@
     "discord":"Uvua83QAzk",
     "telegram":"Polkadex",
     "team":"https://www.linkedin.com/company/polkadex/people/",
-    "size":"26"
+    "size":"26",
+    "docs":""
     },
     {
     "type": "project",
@@ -539,7 +580,8 @@
     "discord":"ud2deWAnyt",
     "telegram":"",
     "team":"https://www.linkedin.com/company/polymeshnetwork/people/",
-    "size":"13"
+    "size":"13",
+    "docs":""
     },
     {
     "type": "project",
@@ -551,7 +593,8 @@
     "discord":"scroll",
     "telegram":"",
     "team":"https://www.linkedin.com/company/scroll-io/people/",
-    "size":"60"
+    "size":"60",
+    "docs":""
     },
     {
     "type": "project",
@@ -563,7 +606,8 @@
     "discord":"SJK32GY",
     "telegram":"SCRTcommunity",
     "team":"https://www.linkedin.com/company/secret-foundation/people/",
-    "size":"12"
+    "size":"12",
+    "docs":""
     },
     {
     "type": "project",
@@ -575,7 +619,8 @@
     "discord":"sei",
     "telegram":"seinetwork",
     "team":"https://www.linkedin.com/company/seilabs/people/",
-    "size":"68"
+    "size":"68",
+    "docs":""
     },
     {
     "type": "project",
@@ -587,7 +632,8 @@
     "discord":"",
     "telegram":"sender_community",
     "team":"https://www.linkedin.com/company/sender-wallet/people/",
-    "size":"1"
+    "size":"1",
+    "docs":""
     },
     {
     "type": "project",
@@ -599,7 +645,8 @@
     "discord":"4TXRN6Y4gb",
     "telegram":"sora_xor",
     "team":"https://www.linkedin.com/company/sora-xor/people/",
-    "size":"4"
+    "size":"4",
+    "docs":""
     },
     {
     "type": "project",
@@ -611,7 +658,8 @@
     "discord":"SxBNRR3EwM",
     "telegram":"starfishfinanceofficial",
     "team":"",
-    "size":""
+    "size":"",
+    "docs":""
     },
     {
     "type": "project",
@@ -623,7 +671,8 @@
     "discord":"FbdTFfg8bw",
     "telegram":"stellaswap",
     "team":"https://www.linkedin.com/company/stellaswap/people/",
-    "size":"4"
+    "size":"4",
+    "docs":""
     },
     {
     "type": "project",
@@ -635,7 +684,8 @@
     "discord":"supraoracles",
     "telegram":"SupraOracles",
     "team":"https://supraoracles.com/about/",
-    "size":"23"
+    "size":"23",
+    "docs":""
     },
     {
     "type": "project",
@@ -647,7 +697,8 @@
     "discord":"talisman",
     "telegram":"",
     "team":"https://www.linkedin.com/company/talismanwallet/people/",
-    "size":"16"
+    "size":"16",
+    "docs":""
     },
     {
     "type": "project",
@@ -659,7 +710,8 @@
     "discord":"c4EhDZdFMA",
     "telegram":"thorchain_org",
     "team":"https://www.linkedin.com/company/thorchain-protocol/people/",
-    "size":"7"
+    "size":"7",
+    "docs":""
     },
     {
     "type": "project",
@@ -671,7 +723,8 @@
     "discord":"x8ZeSy6S6K",
     "telegram":"VaraNetwork_Global",
     "team":"",
-    "size":""
+    "size":"",
+    "docs":""
     },
     {
     "type": "project",
@@ -683,7 +736,8 @@
     "discord":"",
     "telegram":"",
     "team":"https://www.linkedin.com/company/watrprotocol/people/",
-    "size":"4"
+    "size":"4",
+    "docs":""
     },
     {
     "type": "project",
@@ -695,7 +749,8 @@
     "discord":"pc5EXCBfEw",
     "telegram":"whitewhaleofficial",
     "team":"https://whitewhale.money/#team",
-    "size":"12"
+    "size":"12",
+    "docs":""
     },
     {
     "type": "project",
@@ -707,6 +762,7 @@
     "discord":"eDXvJKUZgQ",
     "telegram":"",
     "team":"",
-    "size":""
+    "size":"",
+    "docs":""
     }
 ]
