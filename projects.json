@@ -312,17 +312,17 @@
     "docs":""
     },
     {
-    "type": "project",
     "name": "gnosis",
+    "url": "https://www.gnosis.io/",
+    "type": "chain",
     "category": "evm",
     "subcategory": "layer 1",
-    "url": "https://www.gnosis.io/",
     "twitter":"gnosischain",
     "discord":"xW3X5EreBM",
     "telegram":"",
     "team":"https://www.linkedin.com/company/gnosis-limited/people/",
     "size":"120",
-    "docs":""
+    "docs":"https://docs.gnosischain.com/"
     },
     {
     "type": "organisation",
