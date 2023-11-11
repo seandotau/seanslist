@@ -260,17 +260,18 @@
     "docs":"https://docs.empowerchain.io/"
     },
     {
-    "type": "project",
+    
     "name": "evmos",
-    "category": "cosmos",
-    "subcategory": "",
     "url": "https://evmos.org/",
+    "type": "chain",
+    "category": "cosmos",
+    "subcategory": "cosmos zone",
     "twitter":"EvmosOrg",
     "discord":"evmos",
     "telegram":"",
     "team":"https://www.linkedin.com/company/evmos/people/",
     "size":"24",
-    "docs":""
+    "docs":"https://docs.evmos.org/"
     },
     {
     "type": "project",
