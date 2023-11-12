@@ -705,7 +705,7 @@
 	"academy":""
     },
 	{
-		"name": "secret network",
+		"name": "secret_network",
 		"url": "https://scrt.network/",
 		"type": "project",
 		"category": "cosmos",
