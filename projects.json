@@ -254,21 +254,21 @@
 		"tokenomics":"",
 		"academy":""
 	},
-    {
-    "type": "project",
-    "name": "dymension",
-    "category": "cosmos",
-    "subcategory": "celestia",
-    "url": "https://dymension.xyz/",
-    "twitter":"dymension",
-    "discord":"dymension",
-    "telegram":"dymensionXYZ",
-    "team":"",
-    "size":"0",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"url": "https://dymension.xyz/",
+		"name": "dymension",
+		"type": "project - roll up",
+		"category": "cosmos",
+		"subcategory": "celestia",
+		"twitter":"dymension",
+		"discord":"dymension",
+		"telegram":"dymensionXYZ",
+		"team":"",
+		"size":"0",
+		"docs":"https://docs.dymension.xyz/",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "dydx",
