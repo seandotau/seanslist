@@ -374,21 +374,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "organisation",
-    "name": "injective",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://injective.com/",
-    "twitter":"Injective_",
-    "discord":"NK4qdbv",
-    "telegram":"joininjective",
-    "team":"https://www.linkedin.com/company/injective-labs/people/",
-    "size":"62",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "injective",
+		"url": "https://injective.com/",
+		"type": "chain - finance",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"Injective_",
+		"discord":"NK4qdbv",
+		"telegram":"joininjective",
+		"team":"https://www.linkedin.com/company/injective-labs/people/",
+		"size":"62",
+		"docs":"https://docs.injective.network/",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "organisation",
     "name": "jackallabs",
