@@ -89,21 +89,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "assetmantle",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://www.assetmantle.one/",
-    "twitter":"AssetMantle",
-    "discord":"BSdBQ4495d",
-    "telegram":"assetmantlechat",
-    "team":"https://www.linkedin.com/company/assetmantle/people/",
-    "size":"24",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "assetmantle",
+		"type": "chain - NFT",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"url": "https://www.assetmantle.one/",
+		"twitter":"AssetMantle",
+		"discord":"BSdBQ4495d",
+		"telegram":"assetmantlechat",
+		"team":"https://www.linkedin.com/company/assetmantle/people/",
+		"size":"24",
+		"docs":"https://docs.assetmantle.one/",
+		"tokenomics":"https://docs.assetmantle.one/Mantle_Tokenomics/",
+		"academy":""
+	},
 	{
 		"name": "axelar",
 		"url": "https://axelar.network/",
