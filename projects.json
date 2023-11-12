@@ -839,21 +839,21 @@
 	"tokenomics":"https://thegraph.com/docs/en/tokenomics/",
 	"academy":"https://thegraph.academy/"
     },
-    {
-    "name": "thorchain",
-    "url": "https://thorchain.org/",
-    "type": "project",
-    "category": "cosmos",
-    "subcategory": "layer 1",
-    "twitter":"thorchain",
-    "discord":"c4EhDZdFMA",
-    "telegram":"thorchain_org",
-    "team":"https://www.linkedin.com/company/thorchain-protocol/people/",
-    "size":"7",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "thorchain",
+		"url": "https://thorchain.org/",
+		"type": "chain - DEX",
+		"category": "cosmos",
+		"subcategory": "layer 1",
+		"twitter":"thorchain",
+		"discord":"c4EhDZdFMA",
+		"telegram":"thorchain_org",
+		"team":"https://www.linkedin.com/company/thorchain-protocol/people/",
+		"size":"7",
+		"docs":"https://docs.thorchain.org/",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "name": "vara",
     "url": "https://vara-network.io/",
