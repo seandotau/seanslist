@@ -825,19 +825,19 @@
 	"academy":""
     },
     {
-    "name": "thegraph",
-    "url": "https://thegraph.com/",
-    "type": "project",
-    "category": "evm",
-    "subcategory": "",
-    "twitter":"graphprotocol",
-    "discord":"graphprotocol",
-    "telegram":"graphprotocol",
-    "team":"https://www.linkedin.com/company/thegraph/people/",
-    "size":"114",
-    "docs":"https://thegraph.com/docs/en/",
-    "tokenomics":"https://thegraph.com/docs/en/tokenomics/",
-	"academy":""
+	"name": "thegraph",
+	"url": "https://thegraph.com/",
+	"type": "project",
+	"category": "evm",
+	"subcategory": "",
+	"twitter":"graphprotocol",
+	"discord":"graphprotocol",
+	"telegram":"graphprotocol",
+	"team":"https://www.linkedin.com/company/thegraph/people/",
+	"size":"114",
+	"docs":"https://thegraph.com/docs/en/",
+	"tokenomics":"https://thegraph.com/docs/en/tokenomics/",
+	"academy":"https://thegraph.academy/"
     },
     {
     "name": "thorchain",
