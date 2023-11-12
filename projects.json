@@ -14,21 +14,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "name": "andromedaprotocol",
-    "url": "https://www.andromedaprotocol.io/",
-    "type": "os",
-    "category": "cosmos",
-    "subcategory": "layer 1",
-    "twitter":"andromedaprot",
-    "discord":"GBd6buKYyZ",
-    "telegram":"andromedaprotocol",
-    "team":"",
-    "size":"",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "andromedaprotocol",
+		"url": "https://www.andromedaprotocol.io/",
+		"type": "os",
+		"category": "cosmos",
+		"subcategory": "layer 1",
+		"twitter":"andromedaprot",
+		"discord":"GBd6buKYyZ",
+		"telegram":"andromedaprotocol",
+		"team":"",
+		"size":"",
+		"docs":"https://docs.andromedaprotocol.io/andromeda/platform-and-framework/introduction",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "agoric",
