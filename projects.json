@@ -704,6 +704,22 @@
     "tokenomics":"",
 	"academy":""
     },
+	{
+		
+		"name": "ref.finance",
+		"url": "https://www.ref.finance/",
+		"type": "project - DeFi",
+		"category": "near",
+		"subcategory": "",
+		"twitter":"finance_ref",
+		"discord":"SJBGcfMxJz",
+		"telegram":"ref_finance",
+		"team":"https://www.linkedin.com/company/ref-finance/people/",
+		"size":"10",
+		"docs":"https://guide.ref.finance/",
+		"tokenomics":"https://guide.ref.finance/tokenomics",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "scroll",
