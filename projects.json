@@ -615,6 +615,21 @@
 	"academy":""
     },
 	{
+		"name": "octopus",
+		"url": "https://oct.network/",
+		"type": "chain",
+		"category": "near",
+		"subcategory": "",
+		"twitter":"oct_network",
+		"discord":"6GTJBkZA9Q",
+		"telegram":"octopusnetwork",
+		"team":"https://www.linkedin.com/company/theoctopusnetwork/people/",
+		"size":"23",
+		"docs":"https://docs.oct.network/",
+		"tokenomics":"https://oct.network/token",
+		"academy":""
+	},
+	{
 		"name": "okx",
 		"url": "https://www.okx.com/oktc",
 		"type": "chain",
