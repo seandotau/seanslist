@@ -630,6 +630,21 @@
 	"academy":""
     },
 	{
+		"name": "oasisprotocol",
+		"url": "https://oasisprotocol.org/",
+		"type": "chain",
+		"category": "evm",
+		"subcategory": "layer 1",
+		"twitter":"OasisProtocol",
+		"discord":"BQCxwhT5wS",
+		"telegram":"",
+		"team":"https://www.linkedin.com/company/oasisprotocol/people/",
+		"size":"107",
+		"docs":"https://docs.oasis.io/",
+		"tokenomics":"",
+		"academy":""
+	},
+	{
 		"name": "octopus",
 		"url": "https://oct.network/",
 		"type": "chain",
