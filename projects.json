@@ -224,21 +224,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "cronos",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://cronos.org/",
-    "twitter":"cronos_chain",
-    "discord":"pahqHz26q4",
-    "telegram":"",
-    "team":"https://www.linkedin.com/company/cryptocom/people/",
-    "size":"4951",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "cronos",
+		"url": "https://cronos.org/",
+		"type": "chain",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"cronos_chain",
+		"discord":"pahqHz26q4",
+		"telegram":"",
+		"team":"https://www.linkedin.com/company/cryptocom/people/",
+		"size":"4951",
+		"docs":"https://docs.cronos.org/getting-started/readme",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "defund",
