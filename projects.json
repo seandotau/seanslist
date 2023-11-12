@@ -104,21 +104,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "axelar",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://axelar.network/",
-    "twitter":"axelarnetwork",
-    "discord":"aRZ3Ra6f7D",
-    "telegram":"axelarcommunity",
-    "team":"https://www.linkedin.com/company/axelarnetwork/people/",
-    "size":"59",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "axelar",
+		"url": "https://axelar.network/",
+		"type": "chain",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"axelarnetwork",
+		"discord":"aRZ3Ra6f7D",
+		"telegram":"axelarcommunity",
+		"team":"https://www.linkedin.com/company/axelarnetwork/people/",
+		"size":"59",
+		"docs":"https://docs.axelar.dev/",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "base",
