@@ -359,6 +359,21 @@
     "tokenomics":"",
 	"academy":""
     },
+	{
+		"name": "flare",
+		"url": "https://flare.network/",
+		"type": "chain",
+		"category": "evm",
+		"subcategory": "layer 1",
+		"twitter":"FlareNetworks",
+		"discord":"flarenetwork",
+		"telegram":"FlareNetwork",
+		"team":"https://www.linkedin.com/company/flarenetwork/people/",
+		"size":"57",
+		"docs":"https://docs.flare.network/",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "gear",
