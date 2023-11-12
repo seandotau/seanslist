@@ -209,21 +209,22 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "comdex",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://comdex.one/",
-    "twitter":"ComdexOfficial",
-    "discord":"7vjPvWKKMT",
-    "telegram":"ComdexChat",
-    "team":"https://www.linkedin.com/company/comdexofficial/people/",
-    "size":"36",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		
+		"name": "comdex",
+		"url": "https://comdex.one/",
+		"type": "chain - DeFi",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"ComdexOfficial",
+		"discord":"7vjPvWKKMT",
+		"telegram":"ComdexChat",
+		"team":"https://www.linkedin.com/company/comdexofficial/people/",
+		"size":"36",
+		"docs":"https://docs.comdex.one/",
+		"tokenomics":"",
+		"academy":""
+	},
 	{
 		"name": "cronos",
 		"url": "https://cronos.org/",
