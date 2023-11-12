@@ -764,21 +764,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "polkadex",
-    "category": "polkadot",
-    "subcategory": "parachain",
-    "url": "https://polkadex.trade/",
-    "twitter":"polkadex",
-    "discord":"Uvua83QAzk",
-    "telegram":"Polkadex",
-    "team":"https://www.linkedin.com/company/polkadex/people/",
-    "size":"26",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "polkadex",
+		"url": "https://polkadex.trade/",
+		"type": "chain - DeFi",
+		"category": "polkadot",
+		"subcategory": "parachain",
+		"twitter":"polkadex",
+		"discord":"Uvua83QAzk",
+		"telegram":"Polkadex",
+		"team":"https://www.linkedin.com/company/polkadex/people/",
+		"size":"26",
+		"docs":"https://docs.polkadex.trade/",
+		"tokenomics":"https://polkadex.trade/tokeneconomics",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "polymesh",
