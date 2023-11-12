@@ -59,21 +59,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "alter",
-    "category": "cosmos",
-    "subcategory": "secret",
-    "url": "https://alter.network/",
-    "twitter":"AlterDapp",
-    "discord":"jyTnQnpnbU",
-    "telegram":"alterdapp",
-    "team":"https://www.linkedin.com/company/alterhubnetwork/people/",
-    "size":"5",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "alter",
+		"url": "https://alter.network/",
+		"type": "project",
+		"category": "cosmos",
+		"subcategory": "secret",	
+		"twitter":"AlterDapp",
+		"discord":"jyTnQnpnbU",
+		"telegram":"alterdapp",
+		"team":"https://www.linkedin.com/company/alterhubnetwork/people/",
+		"size":"5",
+		"docs":"",
+		"tokenomics":"https://comms.alter.network/token",
+		"academy":""
+	},
     {
     "name": "arbitrum",
     "url": "https://arbitrum.io/",
