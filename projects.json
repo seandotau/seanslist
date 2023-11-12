@@ -1005,6 +1005,21 @@
     "tokenomics":"",
 	"academy":""
     },
+	{
+		"name": "viction",
+		"url": "https://viction.xyz/",
+		"type": "chain",
+		"category": "evm",
+		"subcategory": "layer 1",
+		"twitter":"BuildOnViction",
+		"discord":"buildonviction",
+		"telegram":"thorchain_org",
+		"team":"https://www.linkedin.com/company/thorchain-protocol/people/",
+		"size":"7",
+		"docs":"https://docs.tomochain.com/",
+		"tokenomics":"https://docs.google.com/document/d/197Cu57A6OYPoEQbrUVr067qNVEzP_FEwaDCFff7hnlM/edit",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "watr",
