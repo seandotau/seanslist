@@ -629,6 +629,21 @@
     "tokenomics":"",
 	"academy":""
     },
+	{
+		"name": "orderly",
+		"url": "https://orderly.network/",
+		"type": "project - DeFi",
+		"category": "near",
+		"subcategory": "",
+		"twitter":"OrderlyNetwork",
+		"discord":"orderlynetwork",
+		"telegram":"",
+		"team":"https://www.linkedin.com/company/orderly-network/people/",
+		"size":"35",
+		"docs":"https://docs.orderly.network/getting-started/what-is-orderly-network",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "parallel",
