@@ -479,21 +479,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "marsprotocol",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://www.marsprotocol.io/",
-    "twitter":"mars_protocol",
-    "discord":"marsprotocol",
-    "telegram":"martiannews",
-    "team":"",
-    "size":"",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"url": "https://www.marsprotocol.io/",
+		"name": "marsprotocol",
+		"type": "chain - DeFi",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"mars_protocol",
+		"discord":"marsprotocol",
+		"telegram":"martiannews",
+		"team":"",
+		"size":"",
+		"docs":"https://docs.marsprotocol.io/",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "mantle",
