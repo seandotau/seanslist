@@ -480,6 +480,21 @@
 	"academy":""
     },
 	{
+		"name": "loop_network",
+		"url": "https://www.theloopnetwork.org/",
+		"type": "chain",
+		"category": "evm",
+		"subcategory": "layer 1",
+		"twitter":"loopnetwork3",
+		"discord":"",
+		"telegram":"loopnetwork",
+		"team":"",
+		"size":"",
+		"docs":"https://loopnetwork.gitbook.io/home/",
+		"tokenomics":"https://loopnetwork.gitbook.io/home/welcome-to-loop-network/tokenomics",
+		"academy":""
+	},
+	{
 		"url": "https://www.marsprotocol.io/",
 		"name": "marsprotocol",
 		"type": "chain - DeFi",
