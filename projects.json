@@ -44,21 +44,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "akash",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://akash.network/",
-    "twitter":"akashnet_",
-    "discord":"akash",
-    "telegram":"",
-    "team":"https://www.linkedin.com/company/ovrclk/people/",
-    "size":"2",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "akash",
+		"url": "https://akash.network/",
+		"type": "chain - infra",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"akashnet_",
+		"discord":"akash",
+		"telegram":"",
+		"team":"https://www.linkedin.com/company/ovrclk/people/",
+		"size":"2",
+		"docs":"https://docs.akash.network/",
+		"tokenomics":"https://akash.network/token/",
+		"academy":""
+	},
 	{
 		"name": "alter",
 		"url": "https://alter.network/",
