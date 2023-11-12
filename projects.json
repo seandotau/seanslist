@@ -134,21 +134,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "bitsong",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://bitsong.io/",
-    "twitter":"BitSongOfficial",
-    "discord":"mZC9Yk3",
-    "telegram":"BitSongOfficial",
-    "team":"https://www.linkedin.com/company/bitsong/people/",
-    "size":"17",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "bitsong",
+		"type": "chain - music",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"url": "https://bitsong.io/",
+		"twitter":"BitSongOfficial",
+		"discord":"mZC9Yk3",
+		"telegram":"BitSongOfficial",
+		"team":"https://www.linkedin.com/company/bitsong/people/",
+		"size":"17",
+		"docs":"https://docs.bitsong.io/",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "boba",
