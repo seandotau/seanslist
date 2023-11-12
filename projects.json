@@ -629,21 +629,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "persistence",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://persistence.one/",
-    "twitter":"PersistenceOne",
-    "discord":"qXRmTTGcYD",
-    "telegram":"PersistenceOne",
-    "team":"https://www.linkedin.com/company/persistenceone/people/",
-    "size":"36",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"type": "project",
+		"name": "persistence",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"url": "https://persistence.one/",
+		"twitter":"PersistenceOne",
+		"discord":"qXRmTTGcYD",
+		"telegram":"PersistenceOne",
+		"team":"https://www.linkedin.com/company/persistenceone/people/",
+		"size":"36",
+		"docs":"https://docs.persistence.one/",
+		"tokenomics":"https://docs.persistence.one/participate/xprt",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "phala",
