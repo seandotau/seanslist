@@ -10,7 +10,8 @@
     "telegram":"Algomint2",
     "team":"https://www.linkedin.com/company/algomint/people/",
     "size":"9",
-    "docs":"https://algomint-1.gitbook.io/algomint/"
+    "docs":"https://algomint-1.gitbook.io/algomint/",
+	"tokenomics":""
     },
     {
     "name": "andromedaprotocol",
@@ -23,7 +24,8 @@
     "telegram":"andromedaprotocol",
     "team":"",
     "size":"",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -36,7 +38,8 @@
     "telegram":"agoricsystems",
     "team":"https://agoric.com/team",
     "size":"34",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -49,7 +52,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/ovrclk/people/",
     "size":"2",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -62,7 +66,8 @@
     "telegram":"alterdapp",
     "team":"https://www.linkedin.com/company/alterhubnetwork/people/",
     "size":"5",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "name": "arbitrum",
@@ -75,7 +80,8 @@
     "telegram":"arbitrum",
     "team":"https://www.linkedin.com/company/arbitrum/people/",
     "size":"60",
-    "docs":"https://developer.arbitrum.io/"
+    "docs":"https://developer.arbitrum.io/",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -88,7 +94,8 @@
     "telegram":"assetmantlechat",
     "team":"https://www.linkedin.com/company/assetmantle/people/",
     "size":"24",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -101,7 +108,8 @@
     "telegram":"axelarcommunity",
     "team":"https://www.linkedin.com/company/axelarnetwork/people/",
     "size":"59",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -114,7 +122,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/coinbase/people/",
     "size":"4334",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -127,7 +136,8 @@
     "telegram":"BitSongOfficial",
     "team":"https://www.linkedin.com/company/bitsong/people/",
     "size":"17",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -140,7 +150,8 @@
     "telegram":"bobanetwork",
     "team":"https://www.linkedin.com/company/bobanetwork/people/",
     "size":"15",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -153,7 +164,8 @@
     "telegram":"CelestiaCommunity",
     "team":"https://www.linkedin.com/company/celestiaorg/people/",
     "size":"40",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -166,7 +178,8 @@
     "telegram":"centrifuge_chat",
     "team":"https://www.linkedin.com/company/centrifugehq/people/",
     "size":"53",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -179,7 +192,8 @@
     "telegram":"cheqd",
     "team":"https://cheqd.io/team/",
     "size":"12",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -192,7 +206,8 @@
     "telegram":"ComdexChat",
     "team":"https://www.linkedin.com/company/comdexofficial/people/",
     "size":"36",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -205,7 +220,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/cryptocom/people/",
     "size":"4951",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -218,7 +234,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/in/johndibernardi/",
     "size":"2",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -231,7 +248,8 @@
     "telegram":"dymensionXYZ",
     "team":"",
     "size":"0",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -244,7 +262,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/dydx/people/",
     "size":"76",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "name": "empowerchain",
@@ -257,7 +276,8 @@
     "telegram":"empowerchain",
     "team":"https://www.linkedin.com/company/empowerplastic/people/",
     "size":"27",
-    "docs":"https://docs.empowerchain.io/"
+    "docs":"https://docs.empowerchain.io/",
+	"tokenomics":""
     },
     {
     "name": "evmos",
@@ -270,7 +290,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/evmos/people/",
     "size":"24",
-    "docs":"https://docs.evmos.org/"
+    "docs":"https://docs.evmos.org/",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -283,7 +304,8 @@
     "telegram":"fearlesswallet",
     "team":"https://www.linkedin.com/company/soramitsu/people/",
     "size":"117",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -296,7 +318,8 @@
     "telegram":"fetch_ai",
     "team":"https://www.linkedin.com/company/fetch-ai/people/",
     "size":"67",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -309,7 +332,8 @@
     "telegram":"gear_tech",
     "team":"https://www.linkedin.com/company/geartechnologies/people/",
     "size":"27",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "name": "gnosis",
@@ -322,7 +346,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/gnosis-limited/people/",
     "size":"120",
-    "docs":"https://docs.gnosischain.com/"
+    "docs":"https://docs.gnosischain.com/",
+	"tokenomics":""
     },
     {
     "type": "organisation",
@@ -335,7 +360,8 @@
     "telegram":"joininjective",
     "team":"https://www.linkedin.com/company/injective-labs/people/",
     "size":"62",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "organisation",
@@ -348,7 +374,8 @@
     "telegram":"+rtuZnbTlHaIzNjVh",
     "team":"https://www.jackallabs.io/team",
     "size":"11",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "name": "junonetwork",
@@ -361,7 +388,8 @@
     "telegram":"JunoNetwork",
     "team":"https://www.linkedin.com/company/juno-network/people/",
     "size":"2",
-    "docs":"https://docs.junonetwork.io/juno/readme"
+    "docs":"https://docs.junonetwork.io/juno/readme",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -374,7 +402,8 @@
     "telegram":"kavalabs",
     "team":"https://www.linkedin.com/company/kava-labs/people/",
     "size":"47",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -387,7 +416,8 @@
     "telegram":"Klaytn_EN",
     "team":"https://www.linkedin.com/company/klaytnfoundation/people/",
     "size":"62",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -400,7 +430,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/levana-protocol/people/",
     "size":"10",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -413,7 +444,8 @@
     "telegram":"litentry",
     "team":"https://www.linkedin.com/company/litentry/people/",
     "size":"33",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -426,7 +458,8 @@
     "telegram":"martiannews",
     "team":"",
     "size":"",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -439,7 +472,8 @@
     "telegram":"mantlenetwork",
     "team":"https://www.linkedin.com/company/0xmantle/people/",
     "size":"39",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -452,7 +486,8 @@
     "telegram":"Meter_IO",
     "team":"https://www.linkedin.com/company/meterio/people/",
     "size":"16",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -465,7 +500,8 @@
     "telegram":"Moonbeam_Official",
     "team":"https://www.linkedin.com/company/moonbeam-network/people/",
     "size":"78",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -478,7 +514,8 @@
     "telegram":"neutron_community",
     "team":"",
     "size":"",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -491,7 +528,8 @@
     "telegram":"nodlecommunity",
     "team":"https://www.linkedin.com/company/nodle/people/",
     "size":"44",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -504,7 +542,8 @@
     "telegram":"novawallet",
     "team":"https://novawallet.io/#Team",
     "size":"11",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -517,7 +556,8 @@
     "telegram":"OKXOfficial_English",
     "team":"https://www.linkedin.com/company/okxofficial/people/",
     "size":"2647",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -530,7 +570,8 @@
     "telegram":"OmniFlixNetwork",
     "team":"https://www.linkedin.com/company/omniflixnetwork/people/",
     "size":"7",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -543,7 +584,8 @@
     "telegram":"parallelfi_community",
     "team":"https://www.linkedin.com/company/parallel-finance/people/",
     "size":"54",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -556,7 +598,8 @@
     "telegram":"PersistenceOne",
     "team":"https://www.linkedin.com/company/persistenceone/people/",
     "size":"36",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -569,7 +612,8 @@
     "telegram":"phalanetwork",
     "team":"https://www.linkedin.com/company/phala-network/people/",
     "size":"29",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -582,7 +626,8 @@
     "telegram":"Polkadex",
     "team":"https://www.linkedin.com/company/polkadex/people/",
     "size":"26",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -595,7 +640,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/polymeshnetwork/people/",
     "size":"13",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -608,7 +654,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/scroll-io/people/",
     "size":"60",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -621,7 +668,8 @@
     "telegram":"SCRTcommunity",
     "team":"https://www.linkedin.com/company/secret-foundation/people/",
     "size":"12",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -634,7 +682,8 @@
     "telegram":"seinetwork",
     "team":"https://www.linkedin.com/company/seilabs/people/",
     "size":"68",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -647,7 +696,8 @@
     "telegram":"sender_community",
     "team":"https://www.linkedin.com/company/sender-wallet/people/",
     "size":"1",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -660,7 +710,8 @@
     "telegram":"sora_xor",
     "team":"https://www.linkedin.com/company/sora-xor/people/",
     "size":"4",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -673,7 +724,8 @@
     "telegram":"starfishfinanceofficial",
     "team":"",
     "size":"",
-    "docs":"https://docs.astar.network/"
+    "docs":"https://docs.astar.network/",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -686,7 +738,8 @@
     "telegram":"stellaswap",
     "team":"https://www.linkedin.com/company/stellaswap/people/",
     "size":"4",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -699,7 +752,8 @@
     "telegram":"SupraOracles",
     "team":"https://supraoracles.com/about/",
     "size":"23",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -712,7 +766,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/talismanwallet/people/",
     "size":"16",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "name": "thegraph",
@@ -725,7 +780,8 @@
     "telegram":"graphprotocol",
     "team":"https://www.linkedin.com/company/thegraph/people/",
     "size":"114",
-    "docs":"https://thegraph.com/docs/en/"
+    "docs":"https://thegraph.com/docs/en/",
+	"tokenomics":""
     },
     {
     "name": "thorchain",
@@ -738,7 +794,8 @@
     "telegram":"thorchain_org",
     "team":"https://www.linkedin.com/company/thorchain-protocol/people/",
     "size":"7",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "name": "vara",
@@ -751,7 +808,8 @@
     "telegram":"VaraNetwork_Global",
     "team":"",
     "size":"",
-    "docs":"https://wiki.vara-network.io/docs/intro"
+    "docs":"https://wiki.vara-network.io/docs/intro",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -764,7 +822,8 @@
     "telegram":"",
     "team":"https://www.linkedin.com/company/watrprotocol/people/",
     "size":"4",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
@@ -777,7 +836,8 @@
     "telegram":"whitewhaleofficial",
     "team":"https://whitewhale.money/#team",
     "size":"12",
-    "docs":""
+    "docs":"",
+	"tokenomics":""
     },
     {
     "type": "project",
