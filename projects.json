@@ -990,6 +990,21 @@
     "tokenomics":"",
 	"academy":""
     },
+	{
+		"name": "xion",
+		"url": "https://xion.burnt.com/",
+		"type": "chain",
+		"category": "cosmos",
+		"subcategory": "layer 1",
+		"twitter":"burnt_xion",
+		"discord":"burnt",
+		"telegram":"xion_announcements",
+		"team":"https://www.linkedin.com/company/burntio/people/",
+		"size":"6",
+		"docs":"https://docs.burnt.com/xion/",
+		"tokenomics":"https://docs.burnt.com/xion/learn/tokenomics",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "zoombies",
