@@ -630,11 +630,11 @@
 	"academy":""
     },
 	{
-		"type": "project",
 		"name": "persistence",
-		"category": "cosmos",
-		"subcategory": "cosmos zone",
 		"url": "https://persistence.one/",
+		"type": "chain - staking",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",	
 		"twitter":"PersistenceOne",
 		"discord":"qXRmTTGcYD",
 		"telegram":"PersistenceOne",
