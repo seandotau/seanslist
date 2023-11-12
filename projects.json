@@ -599,21 +599,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "okx",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://www.okx.com/oktc",
-    "twitter":"okx",
-    "discord":"e6EyvM5QwM",
-    "telegram":"OKXOfficial_English",
-    "team":"https://www.linkedin.com/company/okxofficial/people/",
-    "size":"2647",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "okx",
+		"url": "https://www.okx.com/oktc",
+		"type": "chain",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",	
+		"twitter":"okx",
+		"discord":"e6EyvM5QwM",
+		"telegram":"OKXOfficial_English",
+		"team":"https://www.linkedin.com/company/okxofficial/people/",
+		"size":"2647",
+		"docs":"https://www.okx.com/okbc/docs/dev/quick-start/introduction/introduction-to-okbchain",
+		"tokenomics":"",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "omniflix",
