@@ -870,21 +870,21 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "sora",
-    "category": "polkadot",
-    "subcategory": "parachain",
-    "url": "https://sora.org/",
-    "twitter":"sora_xor",
-    "discord":"4TXRN6Y4gb",
-    "telegram":"sora_xor",
-    "team":"https://www.linkedin.com/company/sora-xor/people/",
-    "size":"4",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "sora",
+		"url": "https://sora.org/",
+		"type": "chain - GOV",
+		"category": "polkadot",
+		"subcategory": "parachain",
+		"twitter":"sora_xor",
+		"discord":"4TXRN6Y4gb",
+		"telegram":"sora_xor",
+		"team":"https://www.linkedin.com/company/sora-xor/people/",
+		"size":"4",
+		"docs":"https://wiki.sora.org/",
+		"tokenomics":"https://sora.org/#tokens",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "starfish",
