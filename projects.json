@@ -1005,6 +1005,21 @@
 		"tokenomics":"",
 		"academy":""
 	},
+	{
+		"name": "ux",
+		"url": "https://www.ux.xyz/",
+		"type": "chain - DeFi",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"Umee_CrossChain",
+		"discord":"uxchain",
+		"telegram":"umeecrosschain",
+		"team":"https://www.linkedin.com/company/umee-network/people/",
+		"size":"32",
+		"docs":"https://umeeversity.umee.cc/developers/",
+		"tokenomics":"https://umeeversity.umee.cc/overview/UX-token/tokenomics.html",
+		"academy":"https://umeeversity.umee.cc/"
+	},
     {
     "name": "vara",
     "url": "https://vara-network.io/",
