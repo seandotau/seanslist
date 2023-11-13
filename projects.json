@@ -29,21 +29,21 @@
 		"tokenomics":"",
 		"academy":""
 	},
-    {
-    "type": "project",
-    "name": "agoric",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://agoric.com/",
-    "twitter":"agoric",
-    "discord":"qDW8DRes4s",
-    "telegram":"agoricsystems",
-    "team":"https://agoric.com/team",
-    "size":"34",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "agoric",
+		"url": "https://agoric.com/",
+		"type": "chain - DeFi",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"agoric",
+		"discord":"qDW8DRes4s",
+		"telegram":"agoricsystems",
+		"team":"https://agoric.com/team",
+		"size":"34",
+		"docs":"https://docs.agoric.com/",
+		"tokenomics":"",
+		"academy":""
+	},
 	{
 		"name": "akash",
 		"url": "https://akash.network/",
