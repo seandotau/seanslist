@@ -164,21 +164,21 @@
 		"tokenomics":"",
 		"academy":""
 	},
-    {
-    "type": "project",
-    "name": "boba",
-    "category": "evm",
-    "subcategory": "layer 2",
-    "url": "https://boba.network/",
-    "twitter":"bobanetwork",
-    "discord":"Hvu3zpFwWd",
-    "telegram":"bobanetwork",
-    "team":"https://www.linkedin.com/company/bobanetwork/people/",
-    "size":"15",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "boba",
+		"url": "https://boba.network/",
+		"type": "chain - rollup",
+		"category": "evm",
+		"subcategory": "layer 2",	
+		"twitter":"bobanetwork",
+		"discord":"Hvu3zpFwWd",
+		"telegram":"bobanetwork",
+		"team":"https://www.linkedin.com/company/bobanetwork/people/",
+		"size":"15",
+		"docs":"https://docs.boba.network/",
+		"tokenomics":"",
+		"academy":"https://boba.network/education/"
+	},
     {
     "type": "project",
     "name": "celestia",
