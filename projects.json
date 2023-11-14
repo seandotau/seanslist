@@ -284,21 +284,21 @@
 		"tokenomics":"",
 		"academy":""
 	},
-    {
-    "type": "project",
-    "name": "dydx",
-    "category": "cosmos",
-    "subcategory": "",
-    "url": "https://dydx.exchange/",
-    "twitter":"dydx",
-    "discord":"dydx",
-    "telegram":"",
-    "team":"https://www.linkedin.com/company/dydx/people/",
-    "size":"76",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "dydx",
+		"url": "https://dydx.exchange/",
+		"type": "chain - DeFi",
+		"category": "cosmos",
+		"subcategory": "layer 1",
+		"twitter":"dydx",
+		"discord":"dydx",
+		"telegram":"",
+		"team":"https://www.linkedin.com/company/dydx/people/",
+		"size":"76",
+		"docs":"https://docs.dydx.exchange/",
+		"tokenomics":"",
+		"academy":"https://dydx.exchange/crypto-learning"
+	},
     {
     "name": "empowerchain",
     "url": "https://www.empowerchain.io/",
