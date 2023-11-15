@@ -165,6 +165,21 @@
 		"academy":""
 	},
 	{
+		"name": "bnbchain",
+		"url": "https://www.bnbchain.org",
+		"type": "chain",
+		"category": "evm",
+		"subcategory": "layer 1",	
+		"twitter":"BNBChain",
+		"discord":"QRTQvfhADQ",
+		"telegram":"bnbchain",
+		"team":"",
+		"size":"",
+		"docs":"https://docs.bnbchain.org/docs/overview",
+		"tokenomics":"",
+		"academy":""
+	},
+	{
 		"name": "boba",
 		"url": "https://boba.network/",
 		"type": "chain - rollup",
