@@ -917,6 +917,21 @@
 	"academy":""
     },
 	{
+		"name": "stella",
+		"url": "https://stellar.org/",
+		"type": "chain",
+		"category": "stella",
+		"subcategory": "layer 1",
+		"twitter":"StellarOrg",
+		"discord":"zVYdY3ktTn",
+		"telegram":"",
+		"team":"https://www.linkedin.com/company/stellar-development-foundation/people/",
+		"size":"173",
+		"docs":"https://developers.stellar.org/docs",
+		"tokenomics":"",
+		"academy":"https://stellar.org/learn"
+	},
+	{
 	"name": "stellaswap",
 	"url": "https://stellaswap.com/",
 	"type": "DEX",
