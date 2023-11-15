@@ -1096,21 +1096,22 @@
     "tokenomics":"",
 	"academy":""
     },
-    {
-    "type": "project",
-    "name": "whitewhale",
-    "category": "cosmos",
-    "subcategory": "",
-    "url": "https://whitewhale.money/",
-    "twitter":"WhiteWhaleDefi",
-    "discord":"pc5EXCBfEw",
-    "telegram":"whitewhaleofficial",
-    "team":"https://whitewhale.money/#team",
-    "size":"12",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		
+		"name": "whitewhale",
+		"url": "https://whitewhale.money/",
+		"type": "project - DeFi",
+		"category": "cosmos",
+		"subcategory": "",
+		"twitter":"WhiteWhaleDefi",
+		"discord":"pc5EXCBfEw",
+		"telegram":"whitewhaleofficial",
+		"team":"https://whitewhale.money/#team",
+		"size":"12",
+		"docs":"https://docs.whitewhale.money/white-whale-docs/",
+		"tokenomics":"",
+		"academy":""
+	},
 	{
 		"name": "xion",
 		"url": "https://xion.burnt.com/",
