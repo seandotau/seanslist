@@ -107,9 +107,9 @@
 	{
 		"name": "aurora",
 		"url": "https://aurora.dev/",
-		"type": "chain - EVM",
+		"type": "chain - evm",
 		"category": "near",
-		"subcategory": "",
+		"subcategory": "aurora",
 		"twitter":"auroraisnear",
 		"discord":"dEFJBz8HQV",
 		"telegram":"auroraisnear",
