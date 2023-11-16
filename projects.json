@@ -601,11 +601,11 @@
 		"academy":""
 	},
 	{
-		"type": "project",
 		"name": "moonbeam",
+		"url": "https://moonbeam.network/",
+		"type": "project",
 		"category": "polkadot",
 		"subcategory": "parachain",
-		"url": "https://moonbeam.network/",
 		"twitter":"moonbeamnetwork",
 		"discord":"moonbeam",
 		"telegram":"Moonbeam_Official",
@@ -613,6 +613,21 @@
 		"size":"78",
 		"docs":"https://docs.moonbeam.network/",
 		"tokenomics":"https://moonbeam.network/tokens/",
+		"academy":""
+	},
+	{
+		"name": "near",
+		"url": "https://near.org/",
+		"type": "chain",
+		"category": " near",
+		"subcategory": "",
+		"twitter":"nearprotocol",
+		"discord":"zfhfRpaM4m",
+		"telegram":"cryptonear",
+		"team":"https://www.linkedin.com/company/near-protocol-project/people/",
+		"size":"147",
+		"docs":"https://docs.near.org/",
+		"tokenomics":"",
 		"academy":""
 	},
     {
