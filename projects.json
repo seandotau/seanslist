@@ -916,21 +916,21 @@
 		"tokenomics":"https://sora.org/#tokens",
 		"academy":""
 	},
-    {
-    "type": "project",
-    "name": "starfish",
-    "category": "polkadot",
-    "subcategory": "astar",
-    "url": "https://starfish.finance/",
-    "twitter":"Starfish_Fi",
-    "discord":"SxBNRR3EwM",
-    "telegram":"starfishfinanceofficial",
-    "team":"",
-    "size":"",
-    "docs":"https://docs.astar.network/",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "starfish",
+		"url": "https://starfish.finance/",
+		"type": "project - DeFi",
+		"category": "polkadot",
+		"subcategory": "astar",
+		"twitter":"Starfish_Fi",
+		"discord":"SxBNRR3EwM",
+		"telegram":"starfishfinanceofficial",
+		"team":"",
+		"size":"",
+		"docs":"https://docs.astar.network/",
+		"tokenomics":"",
+		"academy":""
+	},
 	{
 		"name": "stella",
 		"url": "https://stellar.org/",
