@@ -1,11 +1,19 @@
 [
   {
-    "type": "mixers",
-    "name": "blindmixer",
+    "type": "atm",
+    "name": "bitcoindepot",
     "category": "",
     "subcategory": "",
-    "url": "https://blindmixer.com/",
-    "size": ""
+    "url": "https://bitcoindepot.com/",
+    "size": ""    
+  },
+  {
+    "type": "atm",
+    "name": "bitstop",
+    "category": "atm",
+    "subcategory": "",
+    "url": "https://bitstop.co/",
+    "size": ""    
   },
   {
     "type": "gambling",
@@ -16,11 +24,11 @@
     "size": ""
   },
   {
-    "type": "atm",
-    "name": "bitcoindepot",
+    "type": "mixers",
+    "name": "blindmixer",
     "category": "",
     "subcategory": "",
-    "url": "https://bitcoindepot.com/",
-    "size": ""    
+    "url": "https://blindmixer.com/",
+    "size": ""
   }
 ]
