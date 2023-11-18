@@ -134,5 +134,53 @@
     "subcategory": "",
     "url": "https://z.cash/",
     "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "exodus",
+    "category": "software",
+    "subcategory": "",
+    "url": "https://www.exodus.com/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "coinomi",
+    "category": "software",
+    "subcategory": "",
+    "url": "https://www.coinomi.com/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "ledger",
+    "category": "hardware",
+    "subcategory": "",
+    "url": "https://www.ledger.com/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "metamask",
+    "category": "software",
+    "subcategory": "",
+    "url": "https://metamask.io/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "trezor",
+    "category": "hardware",
+    "subcategory": "",
+    "url": "https://trezor.io/",
+    "size": ""
+  },
+  {
+    "type": "wallets",
+    "name": "trustwallet",
+    "category": "software",
+    "subcategory": "",
+    "url": "https://trustwallet.com/",
+    "size": ""
   }
 ]
