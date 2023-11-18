@@ -32,6 +32,38 @@
     "size": ""    
   },
   {
+    "type": "exchange",
+    "name": "binance",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.binance.com/",
+    "size": ""
+  },
+  {
+    "type": "exchange",
+    "name": "coinbase",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.coinbase.com/",
+    "size": ""
+  },
+  {
+    "type": "exchange",
+    "name": "crypto",
+    "category": "",
+    "subcategory": "",
+    "url": "https://crypto.com/",
+    "size": ""
+  },
+  {
+    "type": "exchange",
+    "name": "okx",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.okx.com/",
+    "size": ""
+  },
+  {
     "type": "gambling",
     "name": "bitcasino",
     "category": "",
