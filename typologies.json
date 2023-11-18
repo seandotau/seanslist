@@ -33,6 +33,14 @@
   },
   {
     "type": "darknet_market",
+    "name": "alphabay market",
+    "category": "",
+    "subcategory": "",
+    "url": "https://en.wikipedia.org/wiki/AlphaBay",
+    "size": ""    
+  },
+  {
+    "type": "darknet_market",
     "name": "hydra market",
     "category": "",
     "subcategory": "",
