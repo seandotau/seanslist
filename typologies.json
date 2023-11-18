@@ -118,5 +118,21 @@
     "subcategory": "",
     "url": "https://wasabiwallet.io/",
     "size": ""
+  },
+  {
+    "type": "privacy",
+    "name": "monero",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.getmonero.org/",
+    "size": ""
+  },
+  {
+    "type": "privacy",
+    "name": "zcash",
+    "category": "",
+    "subcategory": "",
+    "url": "https://z.cash/",
+    "size": ""
   }
 ]
