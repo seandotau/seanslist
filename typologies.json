@@ -10,9 +10,25 @@
   {
     "type": "atm",
     "name": "bitstop",
-    "category": "atm",
+    "category": "",
     "subcategory": "",
     "url": "https://bitstop.co/",
+    "size": ""    
+  },
+  {
+    "type": "atm",
+    "name": "coinflip",
+    "category": "",
+    "subcategory": "",
+    "url": "https://coinflip.tech/",
+    "size": ""    
+  },
+  {
+    "type": "atm",
+    "name": "rockitcoin",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.rockitcoin.com/",
     "size": ""    
   },
   {
