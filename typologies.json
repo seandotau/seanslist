@@ -1,0 +1,26 @@
+[
+  {
+    "type": "mixers",
+    "name": "blindmixer",
+    "category": "",
+    "subcategory": "",
+    "url": "https://blindmixer.com/",
+    "size": ""
+  },
+  {
+    "type": "gambling",
+    "name": "bitcasino",
+    "category": "",
+    "subcategory": "",
+    "url": "https://bitcasino.io/",
+    "size": ""
+  },
+  {
+    "type": "atm",
+    "name": "bitcoindepot",
+    "category": "",
+    "subcategory": "",
+    "url": "https://bitcoindepot.com/",
+    "size": ""    
+  }
+]
