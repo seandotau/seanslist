@@ -645,21 +645,21 @@
 		"tokenomics":"",
 		"academy":""
 	},
-    {
-    "type": "project",
-    "name": "neutron",
-    "category": "cosmos",
-    "subcategory": "cosmos zone",
-    "url": "https://neutron.org/",
-    "twitter":"Neutron_org",
-    "discord":"zRT2ZkQsxA",
-    "telegram":"neutron_community",
-    "team":"",
-    "size":"",
-    "docs":"",
-    "tokenomics":"",
-	"academy":""
-    },
+	{
+		"name": "neutron",
+		"url": "https://neutron.org/",
+		"type": "chain - DeFi",
+		"category": "cosmos",
+		"subcategory": "cosmos zone",
+		"twitter":"Neutron_org",
+		"discord":"zRT2ZkQsxA",
+		"telegram":"neutron_community",
+		"team":"",
+		"size":"",
+		"docs":"https://docs.neutron.org/",
+		"tokenomics":"https://docs.neutron.org/neutron/tokenomics/overview",
+		"academy":""
+	},
     {
     "type": "project",
     "name": "nodle",
