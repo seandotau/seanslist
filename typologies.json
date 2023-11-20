@@ -104,6 +104,22 @@
     "size": ""
   },
   {
+    "type": "hackers",
+    "name": "lazarus group",
+    "category": "",
+    "subcategory": "",
+    "url": "https://en.wikipedia.org/wiki/Lazarus_Group",
+    "size": ""
+  },
+  {
+    "type": "hackers",
+    "name": "the shadow brokers",
+    "category": "",
+    "subcategory": "",
+    "url": "https://en.wikipedia.org/wiki/The_Shadow_Brokers",
+    "size": ""
+  },
+  {
     "type": "mixers",
     "name": "blindmixer",
     "category": "",
