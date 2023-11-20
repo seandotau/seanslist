@@ -192,6 +192,14 @@
     "size": ""
   },
   {
+    "type": "sanctionlists",
+    "name": "OFAC",
+    "category": "",
+    "subcategory": "",
+    "url": "https://sanctionssearch.ofac.treas.gov/",
+    "size": ""
+  },
+  {
     "type": "wallets",
     "name": "exodus",
     "category": "software",
