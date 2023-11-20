@@ -184,6 +184,14 @@
     "size": ""
   },
   {
+    "type": "ransomware",
+    "name": "wannacry",
+    "category": "",
+    "subcategory": "",
+    "url": "",
+    "size": ""
+  },
+  {
     "type": "wallets",
     "name": "exodus",
     "category": "software",
