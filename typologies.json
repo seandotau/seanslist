@@ -216,6 +216,22 @@
     "size": ""
   },
   {
+    "type": "terrorist_groups",
+    "name": "Australia list",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.nationalsecurity.gov.au/what-australia-is-doing/terrorist-organisations/listed-terrorist-organisations",
+    "size": ""
+  },
+  {
+    "type": "terrorist_groups",
+    "name": "US List",
+    "category": "",
+    "subcategory": "",
+    "url": "https://www.state.gov/foreign-terrorist-organizations/",
+    "size": ""
+  },
+  {
     "type": "wallets",
     "name": "exodus",
     "category": "software",
