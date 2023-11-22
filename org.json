@@ -143,6 +143,17 @@
     "size":"72"
   },
   {
+    "type": "data",
+    "name": "messari",
+    "tag": "messari",
+    "url": "https://messari.io/",
+    "twitter":"MessariCrypto",
+    "telegram": "messaricrypto",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/messari/people/",
+    "size":"148"
+  },
+  {
     "type": "indexing",
     "name": "metricsdao",
     "tag": "",
