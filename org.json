@@ -187,6 +187,17 @@
     "size":"73"
   },
   {
+    "name": "parsiq",
+    "url": "https://parsiq.net/",
+    "type": "api",
+    "tag": "parsiq",
+    "twitter":"parsiq_net",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/parsiq/people/",
+    "size":"26"
+  },
+  {
     "type": "analytics",
     "name": "scorechain",
     "tag": "scorechain",
