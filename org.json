@@ -110,13 +110,24 @@
     "size":"106"
   },
   {
+    "type": "api",
+    "name": "dune",
+    "tag": "dune-analytics",
+    "url": "https://dune.com/",
+    "twitter":"elliptic",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/dune-analytics/people/",
+    "size":"67"
+  },
+  {
     "type": "analytics",
     "name": "elliptic",
     "tag": "elliptic",
     "url": "https://www.elliptic.co/",
-    "twitter":"elliptic",
+    "twitter":"DuneAnalytics",
     "telegram":"",
-    "discord":"",
+    "discord":"ErrzwBz",
     "team":"https://www.linkedin.com/company/ellipticco/people/",
     "size":"180"
   },
