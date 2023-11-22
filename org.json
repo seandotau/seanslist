@@ -11,6 +11,17 @@
     "size":"39"
   },
   {
+    "type": "api",
+    "name": "bitquery",
+    "tag": "bitquery",
+    "url": "https://bitquery.io/",
+    "twitter":"Bitquery_io",
+    "telegram":"bloxy_info",
+    "discord":"EEBVTQnb2E",
+    "team":"https://www.linkedin.com/company/bitquery/people/",
+    "size":"24"
+  },
+  {
     "type": "analytics",
     "name": "breadcrumbs",
     "tag": "breadcrumbs-2",
