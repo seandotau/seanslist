@@ -251,5 +251,16 @@
     "discord":"",
     "team":"https://www.linkedin.com/company/trmlabs/people/",
     "size":"205"
+  },
+  {
+    "name": "uppsalasecurity",
+    "url": "https://uppsalasecurity.com/",
+    "type": "analytics",
+    "tag": "uppsala-security",
+    "twitter":"UPPSentinel",
+    "telegram":"",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/uppsalafoundation/people/",
+    "size":"26"
   }
 ]
