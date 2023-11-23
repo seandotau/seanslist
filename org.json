@@ -1,9 +1,9 @@
 [
   {
     "name": "anchain",
-    "tag": "anchainai",
     "url": "https://www.anchain.ai/",
     "type": "investigation",
+    "tag": "anchainai",
     "twitter":"anchainai",
     "telegram":"",
     "discord":"",
@@ -89,13 +89,14 @@
     "size":"78"
   },
   {
-    "type": "analytics",
     "name": "crystalblockchain",
-    "tag": "crystal-blockchain",
     "url": "https://crystalblockchain.com/",
+    "type": "investigation",
+    "tag": "crystal-blockchain", 
     "twitter":"CrystalPlatform",
     "telegram":"",
     "discord":"",
+    "training":"https://crystalblockchain.com/training-and-certs/",
     "team":"https://www.linkedin.com/company/crystal-blockchain-analytics/people/",
     "size":"42"
   },
