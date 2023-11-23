@@ -117,6 +117,17 @@
     "size":"106"
   },
   {
+    "name": "dappradar",
+    "url": "https://dappradar.com/",
+    "type": "api",
+    "tag": "",
+    "twitter":"dappradar",
+    "telegram":"GdhNjQ8PMhCZ_a0CZutmXg",
+    "discord":"4ybbssrHkm",
+    "team":"https://www.linkedin.com/company/dappradar/people/",
+    "size":"60"
+  },
+  {
     "name": "defillama",
     "url": "https://defillama.com/",
     "type": "analytics",
