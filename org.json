@@ -190,6 +190,17 @@
     "size":"19"
   },
   {
+    "name": "nansen",
+    "url": "https://www.nansen.ai/",
+    "type": "analytics",
+    "tag": "nansen",
+    "twitter":"nansen_ai",
+    "telegram": "",
+    "discord":"X5u3a7Wef6",
+    "team":"https://www.linkedin.com/company/nansen/people/",
+    "size":"135"
+  },
+  {
     "type": "analytics",
     "name": "notabene",
     "tag": "notebene",
