@@ -276,6 +276,18 @@
     "size":"26"
   },
   {
+    "name": "qlue",
+    "url": "https://qlue.io/",
+    "type": "investigations",
+    "tag": "",
+    "twitter":"",
+    "telegram":"",
+    "discord":"",
+    "training":"",
+    "team":"",
+    "size":""
+  },
+  {
     "type": "analytics",
     "name": "scorechain",
     "tag": "scorechain",
