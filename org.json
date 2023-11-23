@@ -127,7 +127,7 @@
     "url": "https://dune.com/",
     "type": "api",
     "tag": "dune-analytics",
-    "twitter":"elliptic",
+    "twitter":"DuneAnalytics",
     "telegram":"",
     "discord":"",
     "training":"",
@@ -135,13 +135,13 @@
     "size":"67"
   },
   {
-    "type": "analytics",
     "name": "elliptic",
+    "type": "investigations",
     "tag": "elliptic",
-    "url": "https://www.elliptic.co/",
-    "twitter":"DuneAnalytics",
+    "twitter":"elliptic",
     "telegram":"",
     "discord":"ErrzwBz",
+    "training":"https://www.elliptic.co/learn",
     "team":"https://www.linkedin.com/company/ellipticco/people/",
     "size":"180"
   },
