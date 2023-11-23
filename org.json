@@ -244,13 +244,14 @@
     "size":"148"
   },
   {
-    "type": "indexing",
     "name": "metricsdao",
-    "tag": "",
     "url": "https://metricsdao.xyz/",
+    "type": "indexing",
+    "tag": "",
     "twitter":"MetricsDAO",
     "telegram": "",
     "discord":"p3GMjK2zAr",
+    "training":"",
     "team":"https://www.linkedin.com/company/metricsdao/people/",
     "size":"19"
   },
@@ -267,13 +268,14 @@
     "size":"135"
   },
   {
-    "type": "analytics",
     "name": "notabene",
-    "tag": "notebene",
     "url": "https://notabene.id/",
+    "type": "compliance",
+    "tag": "notebene",
     "twitter":"notabene_id",
     "telegram": "",
     "discord":"",
+    "training":"",
     "team":"https://www.linkedin.com/company/notabene-id/people/",
     "size":"73"
   },
