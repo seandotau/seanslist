@@ -2,7 +2,7 @@
   {
     "name": "anchain",
     "url": "https://www.anchain.ai/",
-    "type": "investigation",
+    "type": "investigations",
     "tag": "anchainai",
     "twitter":"anchainai",
     "telegram":"",
@@ -91,7 +91,7 @@
   {
     "name": "crystalblockchain",
     "url": "https://crystalblockchain.com/",
-    "type": "investigation",
+    "type": "investigations",
     "tag": "crystal-blockchain", 
     "twitter":"CrystalPlatform",
     "telegram":"",
@@ -279,7 +279,7 @@
   {
     "name": "uppsalasecurity",
     "url": "https://uppsalasecurity.com/",
-    "type": "analytics",
+    "type": "investigations",
     "tag": "uppsala-security",
     "twitter":"UPPSentinel",
     "telegram":"",
