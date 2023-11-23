@@ -58,6 +58,18 @@
     "size":"29"
   },
   {
+    "name": "coinbase tracer",
+    "url": "https://www.coinbase.com/compliance",
+    "type": "investigations",
+    "tag": "",
+    "twitter":"",
+    "telegram":"",
+    "discord":"",
+    "training":"",
+    "team":"",
+    "size":""
+  },
+  {
     "name": "coinfirm",
     "url": "https://www.coinfirm.com/",
     "type": "investigations",
