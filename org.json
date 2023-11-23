@@ -10,5 +10,41 @@
     "training":"https://www.anchain.ai/training",
     "team":"https://www.linkedin.com/company/anchainai/people/",
     "size":"39"
+  },
+  {
+    "name": "bitquery",
+    "url": "https://bitquery.io/",
+    "type": "api",
+    "tag": "bitquery",
+    "twitter":"Bitquery_io",
+    "telegram":"bloxy_info",
+    "discord":"EEBVTQnb2E",
+    "training":"",
+    "team":"https://www.linkedin.com/company/bitquery/people/",
+    "size":"24"
+  },
+  {
+    "name": "breadcrumbs",
+    "url": "https://www.breadcrumbs.app/",
+    "type": "investigations",
+    "tag": "breadcrumbs-2",
+    "twitter":"AppBreadcrumbs",
+    "telegram":"",
+    "discord":"hjFxqG3",
+    "training":"",
+    "team":"https://www.breadcrumbs.app/about",
+    "size":"15"
+  },
+  {
+    "name": "chainalysis",
+    "url": "https://www.chainalysis.com/",
+    "type": "investigations",
+    "tag": "chainalysis",
+    "twitter":"chainalysis",
+    "telegram":"",
+    "discord":"",
+    "training":"https://www.chainalysis.com/chainalysis-certification-programs/",
+    "team":"https://www.linkedin.com/company/chainalysis/people/",
+    "size":"877"
   }
 ]
