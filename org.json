@@ -175,6 +175,17 @@
     "size":"180"
   },
   {
+    "name": "glassnode",
+    "url": "https://glassnode.com/",
+    "type": "api",
+    "tag": "glassnode",
+    "twitter":"glassnode",
+    "telegram": "",
+    "discord":"",
+    "team":"https://www.linkedin.com/company/glassnode/people/",
+    "size":"111"
+  },
+  {
     "type": "indexing",
     "name": "goldsky",
     "tag": "goldsky",
