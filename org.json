@@ -212,7 +212,7 @@
   {
     "name": "kyc-chain",
     "url": "https://kyc-chain.com/",
-    "type": "kyc",
+    "type": "compliance",
     "tag": "goldsky",
     "twitter":"goldskyio",
     "telegram": "",
