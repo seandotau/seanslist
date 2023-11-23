@@ -140,7 +140,20 @@
     "size":"67"
   },
   {
+    "name": "elementus",
+    "url": "https://www.elementus.io/",
+    "type": "investigations",
+    "tag": "elementus",
+    "twitter":"elementus_io",
+    "telegram":"",
+    "discord":"",
+    "training":"",
+    "team":"https://www.linkedin.com/company/elementusio/people/",
+    "size":"37"
+  },
+  {
     "name": "elliptic",
+    "url": "https://www.elliptic.co/",
     "type": "investigations",
     "tag": "elliptic",
     "twitter":"elliptic",
