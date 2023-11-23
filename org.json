@@ -221,13 +221,14 @@
     "size":"14"
   },
   {
-    "type": "analytics",
     "name": "merklescience",
-    "tag": "merkle-science",
     "url": "https://www.merklescience.com/",
+    "type": "investigations",
+    "tag": "merkle-science",
     "twitter":"MerkleScience",
     "telegram": "MerkleScienceOfficial",
     "discord":"",
+    "training":"https://www.merklescience.com/training-certifications",
     "team":"https://www.linkedin.com/company/merklescience/people/",
     "size":"72"
   },
@@ -367,10 +368,10 @@
     "size":"107"
   },
   {
-    "type": "analytics",
     "name": "trmlabs",
-    "tag": "trm-labs",
     "url": "https://www.trmlabs.com/",
+    "type": "investigations",
+    "tag": "trm-labs",
     "twitter":"trmlabs",
     "telegram":"",
     "discord":"",
