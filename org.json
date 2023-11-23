@@ -58,41 +58,5 @@
     "training":"",
     "team":"https://www.linkedin.com/company/clain/people/",
     "size":"29"
-  },
-  {
-    "name": "coinfirm",
-    "url": "https://www.coinfirm.com/",
-    "type": "investigations",
-    "tag": "coinfirm",
-    "twitter":"coinfirm_io",
-    "telegram":"",
-    "discord":"",
-    "training":"https://academy.coinfirm.com/",
-    "team":"https://www.linkedin.com/company/coinfirm/people/",
-    "size":"78"
-  },
-  {
-    "name": "complyadvantage",
-    "url": "https://complyadvantage.com/",
-    "type": "investigations",
-    "tag": "complyadvantage",
-    "twitter":"complyadvantage",
-    "telegram":"",
-    "discord":"",
-    "training":"https://complyadvantage.com/insights/content-type/knowledge-training/",
-    "team":"https://www.linkedin.com/company/complyadvantage/people/",
-    "size":"465"
-  },
-  {
-    "name": "covalenthq",
-    "url": "https://www.covalenthq.com/",
-    "type": "api",
-    "tag": "covalent-1",
-    "twitter":"Covalent_HQ",
-    "telegram":"CovalentHQ",
-    "discord":"VHgmzB9973",
-    "training":"",
-    "team":"https://www.linkedin.com/company/covalenthq/people/",
-    "size":"78"
   }
 ]
