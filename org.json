@@ -1,12 +1,13 @@
 [
   {
-    "type": "analytics",
     "name": "anchain",
     "tag": "anchainai",
     "url": "https://www.anchain.ai/",
+    "type": "investigation",
     "twitter":"anchainai",
     "telegram":"",
     "discord":"",
+    "training":"https://www.anchain.ai/training",
     "team":"https://www.linkedin.com/company/anchainai/people/",
     "size":"39"
   },
