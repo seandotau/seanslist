@@ -23,13 +23,14 @@
     "size":"24"
   },
   {
-    "type": "analytics",
     "name": "breadcrumbs",
-    "tag": "breadcrumbs-2",
     "url": "https://www.breadcrumbs.app/",
+    "type": "investigations",
+    "tag": "breadcrumbs-2", 
     "twitter":"AppBreadcrumbs",
     "telegram":"",
     "discord":"hjFxqG3",
+    "training":"",
     "team":"https://www.breadcrumbs.app/about",
     "size":"15"
   },
