@@ -110,10 +110,21 @@
     "size":"106"
   },
   {
-    "type": "api",
+    "name": "defillama",
+    "url": "https://defillama.com/",
+    "type": "analytics",
+    "tag": "",
+    "twitter":"DefiLlama",
+    "telegram":"",
+    "discord":"",
+    "team":"https://llama-corp.com/",
+    "size":"45"
+  },
+  {
     "name": "dune",
-    "tag": "dune-analytics",
     "url": "https://dune.com/",
+    "type": "api",
+    "tag": "dune-analytics",
     "twitter":"elliptic",
     "telegram":"",
     "discord":"",
