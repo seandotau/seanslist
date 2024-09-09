@@ -121,6 +121,14 @@
   },
   {
     "type": "mixers",
+    "name": "blender",
+    "category": "",
+    "subcategory": "",
+    "url": "https://blendor.io/",
+    "status": "active"
+  },
+  {
+    "type": "mixers",
     "name": "blindmixer",
     "category": "",
     "subcategory": "",
