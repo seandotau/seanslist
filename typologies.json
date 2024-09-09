@@ -177,6 +177,14 @@
   },
   {
     "type": "mixers",
+    "name": "tornado cash",
+    "category": "",
+    "subcategory": "",
+    "url": "https://tornadocash.social/",
+    "status": "sanctioned"
+  },
+  {
+    "type": "mixers",
     "name": "unijoin",
     "category": "",
     "subcategory": "",
