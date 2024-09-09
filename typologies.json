@@ -129,6 +129,14 @@
   },
   {
     "type": "mixers",
+    "name": "chipmixer",
+    "category": "",
+    "subcategory": "",
+    "url": "https://chipmixer.com/",
+    "status": "seized"
+  },
+  {
+    "type": "mixers",
     "name": "mixer",
     "category": "",
     "subcategory": "",
