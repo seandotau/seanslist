@@ -81,7 +81,7 @@
   },
   {
     "type": "service",
-    "name": "Scamsniffer",
+    "name": "scamsniffer",
     "category": "scam scanner",
     "subcategory": "",
     "url": "https://www.scamsniffer.io/",
