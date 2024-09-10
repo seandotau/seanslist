@@ -303,6 +303,18 @@
     "size":"26"
   },
   {
+    "name": "peckshield",
+    "url": "https://peckshield.com/",
+    "type": "investigations",
+    "tag": "peckshield",
+    "twitter":"peckshield",
+    "telegram":"peckshield",
+    "discord":"",
+    "training":"",
+    "team":"https://www.linkedin.com/company/peckshield/people/",
+    "size":"6"
+  },
+  {
     "name": "qlue",
     "url": "https://qlue.io/",
     "type": "investigations",
