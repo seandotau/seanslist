@@ -78,5 +78,13 @@
     "subcategory": "",
     "url": "https://omniscia.io/",
     "size": ""
+  },
+  {
+    "type": "service",
+    "name": "Scamsniffer",
+    "category": "scam scanner",
+    "subcategory": "",
+    "url": "https://www.scamsniffer.io/",
+    "size": ""
   }
 ]
