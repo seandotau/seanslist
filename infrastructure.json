@@ -78,5 +78,13 @@
     "subcategory": "",
     "url": "https://www.quicknode.com/",
     "size": ""
+  },
+  {
+    "type": "infrastructure",
+    "name": "radium block",
+    "category": "api/node-provider",
+    "subcategory": "",
+    "url": "https://radiumblock.com/",
+    "size": ""
   }
 ]
