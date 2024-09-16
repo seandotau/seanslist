@@ -289,10 +289,18 @@
   },
   {
     "type": "wallets",
-    "name": "Phoenix",
+    "name": "phoenix",
     "category": "software",
     "subcategory": "",
     "url": "https://phoenix.acinq.co/",
+    "status": ""
+  },
+  {
+    "type": "wallets",
+    "name": "sparrow",
+    "category": "software",
+    "subcategory": "",
+    "url": "https://sparrowwallet.com/",
     "status": ""
   },
   {
