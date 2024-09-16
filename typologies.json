@@ -289,6 +289,14 @@
   },
   {
     "type": "wallets",
+    "name": "Phoenix",
+    "category": "software",
+    "subcategory": "",
+    "url": "https://phoenix.acinq.co/",
+    "status": ""
+  },
+  {
+    "type": "wallets",
     "name": "trezor",
     "category": "hardware",
     "subcategory": "",
