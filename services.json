@@ -1,6 +1,14 @@
 [
   {
     "type": "service",
+    "name": "chainstats",
+    "category": "stats",
+    "subcategory": "",
+    "url": "https://chainstats.org/",
+    "size": ""
+  },
+  {
+    "type": "service",
     "name": "conciselabs",
     "category": "indexer",
     "subcategory": "",
