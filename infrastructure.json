@@ -33,6 +33,14 @@
   },
   {
     "type": "infrastructure",
+    "name": "drpc",
+    "category": "api/node-provider",
+    "subcategory": "",
+    "url": "https://drpc.org/",
+    "size": ""
+  },
+  {
+    "type": "infrastructure",
     "name": "getblock",
     "category": "api/node-provider",
     "subcategory": "",
